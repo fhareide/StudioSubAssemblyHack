@@ -8,7 +8,7 @@ An updated file that turns more parts into sub assemblies in Stud.io
 
 # Current parts:
 
-![Current parts](../SubAssemblyHack/CurrentParts.png?raw=true)
+![Current parts](CurrentParts.png)
 
 # Feedback:
 Please let me know if there are more parts I should add
