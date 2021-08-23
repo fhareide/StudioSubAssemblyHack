@@ -2,9 +2,11 @@
 An updated file that turns more parts into sub assemblies in Stud.io
 
 # Installation:
+This hack will only work for Studio 2.0 - Version 2.2.8_1
 1. Download "StudioPartDefinition2.txt" from this repository
-2. Put the file in "C:\Program Files\Studio 2.0\data" and replace the one already there
-3. Restart Studio
+2. Make a copy of "StudioPartDefinition2.txt" in "C:\Program Files\Studio 2.0\data" and call it "StudioPartDefinition2.txt.bk" or something
+3. Replace the original file in "C:\Program Files\Studio 2.0\data" with the downloaded one
+4. Restart Studio
 
 # Current parts:
 
