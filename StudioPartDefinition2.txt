@@ -1140,7 +1140,7 @@ Studio ItemNo	BaseStudioItemNo	BL ItemNo	BL ItemKey	LDraw ItemNo	LDD ItemNo	Desc
 9492	9492	41666	9492	41666.dat		Technic, Arm 1 x 7 with Gear 9 Tooth Double Bevel Ends	o	94	8	16	False		False	5040	5041	
 1546	1546	6587	1546	6587.dat	6587	Technic, Axle 3 with Stud	o	94	2	15	False		False	5034	5036	
 137519	137519	18938	137519	18938.dat		Technic Turntable Large Type 3 Top, 60 Tooth	o	94	1	17	False		False	5028	5028	
-50416	50416	2909c03	50416	75348.dat		Technic, Shock Absorber 9.5L (Soft Spring)	o	94	14	16	True		False	5040	5042	
+50416	50416	2909c03	50416	74741-f1.dat		Technic, Shock Absorber 9.5L (Soft Spring)	o	94	14	16	True		False	5040	5042	
 90599	90599	64680	90599	64680.dat	64680	Technic, Panel Fairing #14 Large Short Smooth, Side B	o	94	11	17	False		False	5028	5032	
 9494	9494	41667	9494	41667.dat		Technic, Arm 2 x 5 with 1/4 Gear 8 Tooth Double Bevel	o	94	8	16	False		False	5040	5041	
 90598	90598	64394	90598	64394.dat	64394	Technic, Panel Fairing #13 Large Short Smooth, Side A	o	94	11	17	False		False	5028	5032	
