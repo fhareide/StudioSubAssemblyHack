@@ -1096,7 +1096,7 @@ Studio ItemNo	BaseStudioItemNo	BL ItemNo	BL ItemKey	LDraw ItemNo	LDD ItemNo	Desc
 172421	172421	42545pb001r	172421	42545pb001r.dat		Technic, Panel Car Mudguard Arched 13 x 2 x 5 with Black, Red and Gray Stripes Pattern Model Front Right Side	o	95	1	17	False		True	5028	5032	
 18065	18065	51ps1	18065	x51ps1.dat		Technic, Panel Dome 6 x 6 x 5 2/3 with R2-D2 No Eye Pattern	o	95	1	17	False		True	5028	5032	
 140515	140515	22961	140515	22961.dat		Technic, Axle and Pin Connector Hub with 1 Axle	o	94	4	15	False		False	5034	5037	
-81038	81038	62520c01	81038	61903.dat		Technic, Universal Joint 3L	o	94	4	15	False		False	5034	5037	
+81038	81038	62520c01	81038	61903.dat		Technic, Universal Joint 3L	o	94	4	15	True		False	5034	5037	
 51016	51016	x1192px2	51016	47326b.dat		Technic, Axle Connector 2 x 3 with Ball Joint Socket and Axle Socket with White Rubber Insert	o	94	4	15	False		False	5034	5037	
 965	965	2741	965	2741.dat	2741	Technic, Steering Wheel Large	o	94	15	15	False		False	5034	5039	
 47710	47710	4273a	47710	4273a.dat		Technic, Axle and Pin Connector Toggle Joint Toothed - Without Slots	o	94	4	15	False		False	5034	5037	
@@ -1147,7 +1147,7 @@ Studio ItemNo	BaseStudioItemNo	BL ItemNo	BL ItemKey	LDraw ItemNo	LDD ItemNo	Desc
 2848	2848	2958	2848	2723.dat	2723	Technic, Disk 3 x 3	o	94	5	17	False		False	5028	5033	
 105690	105690	62519	105690	62519.dat		Technic, Universal Joint 3L, Center	o	94	4	15	False		False	5034	5037	
 105691	105691	62520	105691	62520.dat	62520	Technic, Universal Joint 3L, End	o	94	4	15	False		False	5034	5037	
-1700	-11700	9244c01	1700	89.dat		Technic, Universal Joint 4L	o	94	4	15	False		False	5034	5037	
+1700	-11700	9244c01	1700	3712c01.dat		Technic, Universal Joint 4L	o	94	4	15	True		False	5034	5037	
 49916	49916	48171	49916	48171.dat	48171	Technic, Brick Modified 2 x 2 with Pin Holes and Rotation Joint Ball Half (Vertical Side)	o	94	3	4	False		False	5028	5029	
 214	214	2819	214	2819.dat	2819	Technic, Steering Wheel Small, 3 Studs Diameter	o	94	15	15	False		False	5034	5039	
 41305	41305	40001	41305	40001.dat	40001	Technic, Steering Wheel Pilot's Yoke	o	94	15	15	False		False	5034	5039	
@@ -1346,7 +1346,7 @@ Studio ItemNo	BaseStudioItemNo	BL ItemNo	BL ItemKey	LDraw ItemNo	LDD ItemNo	Desc
 84645	84645	64178	84645	64178.dat	64178	Technic, Liftarm, Modified Frame Thick 5 x 11 Open Center	o	94	9	14	False		False	5028	5031	
 120389	120389	14149	120389	14149.dat	14149	Technic, Link Tread Attachment, Double, Rubber	o	94	10	15	False		False	5034	5038	
 3114	3114	109	3114	2910.dat	2910	Technic, Shock Absorber 9.5L, Piston Rod	o	94	14	16	False		False	5040	5042	
-56213	56213	731c06	56213	41838.dat		Technic, Shock Absorber 6.5L - Soft Spring	o	94	14	16	False		False	5040	5042	
+56213	56213	731c06	56213	41838.dat		Technic, Shock Absorber 6.5L - Soft Spring	o	94	14	16	True		False	5040	5042	
 78330	78330	61070	78330	61070.dat	61070	Technic, Panel Car Mudguard Right	o	94	11	17	False		False	5028	5032	
 78329	78329	61071	78329	61071.dat	61071	Technic, Panel Car Mudguard Left	o	94	11	17	False		False	5028	5032	
 50410	50410	731c04	50410	76537.dat		Technic, Shock Absorber 6.5L - Hard Spring	o	94	14	16	False		False	5040	5042	
@@ -1431,7 +1431,7 @@ Studio ItemNo	BaseStudioItemNo	BL ItemNo	BL ItemKey	LDraw ItemNo	LDD ItemNo	Desc
 201	201	2717	201	2717.dat	2717	Technic Seat 3 x 2 Base	o	94	1	17	False		False	5028	5028	
 1175	1175	32012	1175	32012.dat	32012	Technic Reel 3 x 2	o	94	1	17	False		False	5028	5028	
 20	20	200	20	200.dat		Technic Rack Winder Axle	o	94	1	17	False		False	5028	5028	
-80844	80844	61927c01	80844	61927c01.dat		Technic Linear Actuator with Dark Bluish Gray Ends	o	94	1	17	False		False	5028	5028	
+80844	80844	61927c01	80844	61927-f1.dat		Technic Linear Actuator with Dark Bluish Gray Ends	o	94	1	17	True		False	5028	5028	
 8796	8796	70961	8796	70961.dat		Technic Rubber Bumper 2 x 4	o	94	1	17	False		False	5028	5028	
 48939	48939	47455	48939	47455.dat	47455	Technic Rotation Joint Ball Loop with Two Perpendicular Pins with Friction	o	94	1	17	False		False	5028	5028	
 219	219	2850	219	2850.dat	2850	Technic Engine Cylinder with Side Slots	o	94	1	17	False		False	5028	5028	
@@ -1466,7 +1466,7 @@ Studio ItemNo	BaseStudioItemNo	BL ItemNo	BL ItemKey	LDraw ItemNo	LDD ItemNo	Desc
 114408	114408	11947	114408	11947.dat	11947	Technic, Panel Fairing #22 Very Small Smooth, Side A	o	94	11	17	False		False	5028	5032	
 858	858	424	858	6221.dat		Technic Hub / Handle 1 x 1	o	94	1	17	False		False	5028	5028	
 684	684	3711	684	3711.dat	3711	Technic, Link Chain	o	94	10	15	False		False	5034	5038	
-98656	98656	92693c01	98656	92693c02.dat		Technic Linear Actuator Mini with Dark Bluish Gray Head and Orange Axle	o	94	1	17	False		False	5028	5028	
+98656	98656	92693c01	98656	92693c01-f1.dat		Technic Linear Actuator Mini with Dark Bluish Gray Head and Orange Axle	o	94	1	17	True		False	5028	5028	
 262	262	70644	262	70644.dat	70644	Technic Hook Large Metal	o	94	1	17	False		False	5028	5028	
 3586	3586	32072	3586	32072.dat	32072	Technic Knob Cog / Gear / Wheel	o	94	1	17	False		False	5028	5028	
 16932	-16932	2426c01	16932	2426c02.dat		Technic Rack Winder	o	94	1	17	False		False	5028	5028	
@@ -10822,4 +10822,4 @@ Studio ItemNo	BaseStudioItemNo	BL ItemNo	BL ItemKey	LDraw ItemNo	LDD ItemNo	Desc
 175209	89363	60581pb115	175209	60581pb115.dat		Panel 1 x 4 x 3 with Side Supports - Hollow Studs with 'Vestas' Logo Pattern	o	66	-1	9	False		True	5017		
 177112	77915	60601pb020	177112	60601pb020.dat		Glass for Window 1 x 2 x 2 Flat Front with Scattered Newspapers Pattern	o	46	-1	11	False		True	5057	5060	
 185354	97760	92593pb038	185354	92593pb038.dat		Plate, Modified 1 x 4 with 2 Studs without Groove with Black Rectangle Pattern	o	70	2	9	False		True	5012	5012	
-191947	101835	93273pb133	191947	93273pb133.dat		Slope, Curved 4 x 1 Double with Black Utility Belt and 4 Pouches Pattern (BrickHeadz Boba Fett Belt)	o	81	3	6	False		True	5007		
+191947	101835	93273pb133	191947	93273pb133.dat		Slope, Curved 4 x 1 Double with Black Utility Belt and 4 Pouches Pattern (BrickHeadz Boba Fett Belt)	o	81	3	6	False		True	5007	
