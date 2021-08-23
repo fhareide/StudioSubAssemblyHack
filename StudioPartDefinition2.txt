@@ -2416,25 +2416,25 @@ Studio ItemNo	BaseStudioItemNo	BL ItemNo	BL ItemKey	LDraw ItemNo	LDD ItemNo	Desc
 40001	40001	31002	40001	31002.dat		Primo Brick 1 x 3	o	72	-1	0	False		False			
 52220	17337	31000pb11	52220	31000p1m.dat		Primo Brick 1 x 1 with 3 Spots Yellow, Green and Blue Pattern	o	72	-1	0	False		True			
 51410	17337	31000pb04	51410	31000p1y.dat		Primo Brick 1 x 1 with 3 Yellow Spots Pattern	o	72	-1	0	False		True			
-3452	3452	x191c01	3452	74982a.dat		Pneumatic Pump Small (5.5L)	o	71	-1	22	False		False	5082	5084	
+3452	3452	x191c01	3452	74982-f1.dat		Pneumatic Pump Small (5.5L)	o	71	-1	22	True		False	5082	5084	
 9236	9236	4694c01	9236	4694c01.dat		Pneumatic Switch with Top Studs	o	71	-1	22	False		False	5082	5084	
-3451	3451	x189c01	3451	74981a.dat		Pneumatic Cylinder with 2 Inlets Small (32mm)	o	71	-1	22	False		False	5082	5084	
+3451	3451	x189c01	3451	74981-f1.dat		Pneumatic Cylinder with 2 Inlets Small (32mm)	o	71	-1	22	True		False	5082	5084	
 39373	39373	4697b	39373	4697b.dat		Pneumatic T Piece Second Version (T Bar with Ball in Center)	o	71	-1	22	False		False	5082	5084	
 1233	1233	4697a	1233	4697a.dat		Pneumatic T Piece First Version (T Bar)	o	71	-1	22	False		False	5082	5084	
 9091	9091	4692	9091	4692c01.dat		Pneumatic Distribution Block 2 x 4 with Non-return Valve	o	71	-1	22	False		False	5082	5084	
 1907	1907	2797c02	1907	2797c01.dat		Pneumatic Pump Second Version with Black Top	o	71	-1	22	False		False	5082	5084	
 46341	46341	47222	46341	47222.dat		Pneumatic Switch with Pin Holes, Front Part	o	71	-1	22	False		False	5082	5084	
 102716	102716	99021	102716	99021.dat	99021	Pneumatic Hose Connector with Axle Connector	o	71	-1	22	False		False	5082	5084	
-137815	137815	19467c01	137815	19478-p1.dat		Pneumatic Cylinder V2 2 x 11	o	71	-1	22	False		False	5082	5084	
-137817	137817	19475c01	137817	19475-p1.dat		Pneumatic Cylinder V2 1 x 5	o	71	-1	22	False		False	5082	5084	
-1372	1372	4688c01	1372	127c01.dat		Pneumatic Cylinder with 1 Inlet Medium (48mm)	o	71	-1	22	False		False	5082	5084	
+137815	137815	19467c01	137815	19478-p1.dat		Pneumatic Cylinder V2 2 x 11	o	71	-1	22	True		False	5082	5084	
+137817	137817	19475c01	137817	19475-p1.dat		Pneumatic Cylinder V2 1 x 5	o	71	-1	22	True		False	5082	5084	
+1372	1372	4688c01	1372	127c01-f1.dat		Pneumatic Cylinder with 1 Inlet Medium (48mm)	o	71	-1	22	True		False	5082	5084	
 968	968	67c01	968	75974.dat		Pneumatic Airtank	o	71	-1	22	False		False	5082	5084	
-137810	137810	19482c01	137810	19482-p2.dat		Pneumatic Pump Small (6L) V2	o	71	-1	22	False		False	5082	5084	
-103166	103166	99798c01	103166	99798a.dat		Pneumatic Pump Small (6L)	o	71	-1	22	False		False	5082	5084	
+137810	137810	19482c01	137810	19482-p1.dat		Pneumatic Pump Small (6L) V2	o	71	-1	22	True		False	5082	5084	
+103166	103166	99798c01	103166	99798-f1.dat		Pneumatic Pump Small (6L)	o	71	-1	22	True		False	5082	5084	
 56211	56211	53178	56211	53178.dat		Pneumatic Cylinder Bracket	o	71	-1	22	False		False	5082	5084	
-58053	58053	2793c02	58053	2793c02.dat		Pneumatic Cylinder with 2 Inlets Medium (48mm) with Yellow Top	o	71	-1	22	False		False	5082	5084	
-1908	1908	2793c01	1908	2793c01.dat		Pneumatic Cylinder with 2 Inlets Medium (48mm) with Black Top	o	71	-1	22	False		False	5082	5084	
-137816	137816	21828c01	137816	19476-p1.dat		Pneumatic Cylinder V2 1 x 11	o	71	-1	22	False		False	5082	5084	
+58053	58053	2793c02	58053	2793c01-f1.dat		Pneumatic Cylinder with 2 Inlets Medium (48mm) with Yellow Top	o	71	-1	22	True		False	5082	5084	
+1908	1908	2793c01	1908	2793c01-f1.dat		Pneumatic Cylinder with 2 Inlets Medium (48mm) with Black Top	o	71	-1	22	True		False	5082	5084	
+137816	137816	21828c01	137816	19476-p1.dat		Pneumatic Cylinder V2 1 x 11	o	71	-1	22	True		False	5082	5084	
 177240	177240	52494	177240	52494.dat		Plate, Round 1 x 1 with Binoculars (Robot / Droid Head)	o	70	3	8	False		False	5010		
 133893	133893	18980	133893	18980.dat		Plate, Round Corner 2 x 6 Double	o	70	3	8	False		False	5010		
 166938	634	3623pb010	166938	3623pb010.dat		Plate 1 x 3 with Black Hexagon Pattern (BrickHeadz Olaf Chest)	o	70	1	7	False		True	5009		
