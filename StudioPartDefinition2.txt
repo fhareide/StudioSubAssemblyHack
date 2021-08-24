@@ -10822,4 +10822,5 @@ Studio ItemNo	BaseStudioItemNo	BL ItemNo	BL ItemKey	LDraw ItemNo	LDD ItemNo	Desc
 175209	89363	60581pb115	175209	60581pb115.dat		Panel 1 x 4 x 3 with Side Supports - Hollow Studs with 'Vestas' Logo Pattern	o	66	-1	9	False		True	5017		
 177112	77915	60601pb020	177112	60601pb020.dat		Glass for Window 1 x 2 x 2 Flat Front with Scattered Newspapers Pattern	o	46	-1	11	False		True	5057	5060	
 185354	97760	92593pb038	185354	92593pb038.dat		Plate, Modified 1 x 4 with 2 Studs without Groove with Black Rectangle Pattern	o	70	2	9	False		True	5012	5012	
-191947	101835	93273pb133	191947	93273pb133.dat		Slope, Curved 4 x 1 Double with Black Utility Belt and 4 Pouches Pattern (BrickHeadz Boba Fett Belt)	o	81	3	6	False		True	5007	
+191947	101835	93273pb133	191947	93273pb133.dat		Slope, Curved 4 x 1 Double with Black Utility Belt and 4 Pouches Pattern (BrickHeadz Boba Fett Belt)	o	81	3	6	False		True	5007
+40918	40918	40918c01	40918	40918c01.dat		Technic Linear Actuator Long with Dark Bluish Gray Ends	o	94	1	17	True		False	5028	5028	
