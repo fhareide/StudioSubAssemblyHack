@@ -3,7 +3,12 @@
 <br>
 <br>
 
-## Update - Added "CustomParts" folder and fixed connectivity
+## Updated to the latest version of Studio - 2.2.9_1
+  - There is a separate file to support 2.2.8_1 ( Just remove the version number at the end of the file to use it.)
+
+<br>
+
+## Added "CustomParts" folder and fixed connectivity
 I realized that a lot of the parts lost connectivity when turned into submodels. To fix this I made custom connectivity for the subparts. These can be located in the CustomParts folder and will not be replaced when updating Studio.
 
 I also found a way to make this work for Custom Parts. I have added the XL Actuator (from Philo's parts pack) to the CustomParts folder and to the "StudioPartDefinition"-file. This makes the part behave like a sub assembly and as a bonus it shows up in the Master palette. So no need to go to the Custom Palette to find it.
@@ -11,7 +16,7 @@ I also found a way to make this work for Custom Parts. I have added the XL Actua
 <br>
 
 ## Installation Windows:
-This hack will only work for Studio 2.0 - Version 2.2.8_1
+This hack will only work for Studio 2.0
 1. Download "StudioPartDefinition2.txt" from this repository
 2. Make a copy of "StudioPartDefinition2.txt" in "C:\Program Files\Studio 2.0\data" and call it "StudioPartDefinition2.txt.bk" or something
 3. Replace the original file in "C:\Program Files\Studio 2.0\data" with the downloaded one

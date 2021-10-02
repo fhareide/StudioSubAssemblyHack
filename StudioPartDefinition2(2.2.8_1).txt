@@ -535,7 +535,6 @@ Studio ItemNo	BaseStudioItemNo	BL ItemNo	BL ItemKey	LDraw ItemNo	LDD ItemNo	Desc
 163411	84	2431pb511	163411	2431pb511.dat		Tile 1 x 4 with Reddish Brown Square and Lightning Shaped Scar Pattern	o	98	1	7	False		True	5014		
 163412	84	2431pb510	163412	2431pb510.dat		Tile 1 x 4 with Gray Triangle and Three Orange Stripes Pattern	o	98	1	7	False		True	5014		
 11581	17085	3068bpb0046	11581	3068bps2.dat		Tile 2 x 2 with Groove with Green and Brown Pattern	o	98	1	7	False		True	5014		
-163256	105246	98138pb084	163256	98138pb084.dat		Tile, Round 1 x 1 with Ferrari Logo, Black Horse on Yellow Background Pattern (Sticker) - Set 10248	o	98	3	8	False		True	5015		
 3534	17085	3068px31	3534	3068bp11.dat		Tile 2 x 2 with Launch Command Logo, Shuttle and Blue/Red Circle Pattern	o	98	1	7	False		True	5014		
 163414	9081	3070bpb123	163414	3070bpb123.dat		Tile 1 x 1 with Groove with Silver Circuitry Pattern	o	98	1	7	False		True	5014		
 134244	96520	90498pb03	134244	90498pb1.dat		Tile 8 x 16 with Bottom Tubes with Runway Pattern	o	98	1	7	False		True	5014		
@@ -1207,7 +1206,7 @@ Studio ItemNo	BaseStudioItemNo	BL ItemNo	BL ItemKey	LDraw ItemNo	LDD ItemNo	Desc
 673	673	3702	673	3702.dat	3702	Technic, Brick 1 x 8 with Holes	o	94	3	4	False		False	5028	5029	
 536	536	32064	536	32064a.dat	32064	Technic, Brick 1 x 2 with Axle Hole	o	94	3	4	False		False	5028	5029	
 46537	46537	32064b	46537	32064b.dat		Technic, Brick 1 x 2 with Axle Hole (x Shape)	o	94	3	4	False		False	5028	5029	
-3152	3152	32531	3152	32531.dat	32531	Technic, Brick 4 x 6 Open Center	o	94	3	4	False		False	5028	5029	
+3152	3152	40344	3152	32531.dat	32531	Technic, Brick 4 x 6 Open Center	o	94	3	4	False		False	5028	5029	
 119227	119227	57909b	119227	57909b.dat		Technic, Brick Modified 2 x 2 with Ball Joint and Axle Hole with 6 Holes in Ball	o	94	3	4	False		False	5028	5029	
 9657	9657	32555	9657	32555.dat	32555	Technic, Brick 5 x 5 Right Angle (1 x 4 - 1 x 4)	o	94	3	4	False		False	5028	5029	
 1095	1095	32324	1095	32324.dat	32324	Technic, Brick 4 x 4 Open Center	o	94	3	4	False		False	5028	5029	
@@ -1215,7 +1214,7 @@ Studio ItemNo	BaseStudioItemNo	BL ItemNo	BL ItemKey	LDraw ItemNo	LDD ItemNo	Desc
 131735	131735	18948	131735	18948.dat		Technic, Driving Ring Connector	o	94	4	15	False		False	5034	5037	
 1161	1161	2715	1161	2715.dat		Technic, Figure Accessory Helmet	o	94	6	18	False		False	5044	5049	
 66661	66661	57909	66661	57909.dat	57909	Technic, Brick Modified 2 x 2 with Ball Joint and Axle Hole	o	94	3	4	False		False	5028	5029	
-44032	44032	32531c01	44032	43123.dat		Technic, Brick 4 x 6 Open Center with 2 Fixed Rotatable Friction Pins on End	o	94	3	4	False		False	5028	5029	
+44032	44032	40344c01	44032	43123.dat		Technic, Brick 4 x 6 Open Center with 2 Fixed Rotatable Friction Pins on End	o	94	3	4	False		False	5028	5029	
 672	672	3701	672	3701.dat	3701	Technic, Brick 1 x 4 with Holes	o	94	3	4	False		False	5028	5029	
 53063	53063	40345c01	53063	52668.dat		Technic, Brick 6 x 8 Open Center with 2 Fixed Rotatable Friction Pins on 3 Sides	o	94	3	4	False		False	5028	5029	
 742	742	3894	742	3894.dat	3894	Technic, Brick 1 x 6 with Holes	o	94	3	4	False		False	5028	5029	
@@ -1350,7 +1349,7 @@ Studio ItemNo	BaseStudioItemNo	BL ItemNo	BL ItemKey	LDraw ItemNo	LDD ItemNo	Desc
 56213	56213	731c06	56213	41838.dat		Technic, Shock Absorber 6.5L - Soft Spring	o	94	14	16	True		False	5040	5042	
 78330	78330	61070	78330	61070.dat	61070	Technic, Panel Car Mudguard Right	o	94	11	17	False		False	5028	5032	
 78329	78329	61071	78329	61071.dat	61071	Technic, Panel Car Mudguard Left	o	94	11	17	False		False	5028	5032	
-50410	50410	731c04	50410	76537.dat		Technic, Shock Absorber 6.5L - Hard Spring	o	94	14	16	True		False	5040	5042  
+50410	50410	731c04	50410	76537.dat		Technic, Shock Absorber 6.5L - Hard Spring	o	94	14	16	True		False	5040	5042	
 146503	146503	24118	146503	24118.dat		Technic, Panel Car Mudguard Arched 15 x 2 x 5 Straight Top	o	94	11	17	False		False	5028	5032	
 966	966	32186	966	32186.dat		Technic, Steering Arm with 3 Tow Ball	o	94	15	15	False		False	5034	5039	
 1173	1173	2737	1173	2737.dat		Technic, Steering Arm Large	o	94	15	15	False		False	5034	5039	
@@ -1999,7 +1998,6 @@ Studio ItemNo	BaseStudioItemNo	BL ItemNo	BL ItemKey	LDraw ItemNo	LDD ItemNo	Desc
 668	667	3684ap22	668	3684p22.dat		Slope 75 2 x 2 x 3 - Hollow Studs with 16 Black Rectangles (Ferry Windows) Pattern	o	82	1	5	False		True	5006	5006	
 2110	570	3298p19	2110	3298p19.dat		Slope 33 3 x 2 with FreeStyle Pennant Pattern	o	82	1	5	False		True	5006	5006	
 10792	570	3298pb022	10792	3298p1a.dat		Slope 33 3 x 2 with Red Triangles Connected Pattern	o	82	1	5	False		True	5006	5006	
-169436	417	3039pb118	169436	3039pb118.dat		Slope 45 2 x 2 with White Polka Dots Pattern	o	82	1	5	False		True	5006	5006	
 2031	417	3039px8	2031	3039p67.dat		Slope 45 2 x 2 with Blue/Copper Radar Display Pattern	o	82	1	5	False		True	5006	5006	
 17492	570	3298p04	17492	3298p04.dat		Slope 33 3 x 2 with Purple Roof Tiles Pattern	o	82	1	5	False		True	5006	5006	
 2459	570	3298pb005	2459	3298p67.dat		Slope 33 3 x 2 with Blue and Copper Insectoid Scope and Silver Circuitry Pattern	o	82	1	5	False		True	5006	5006	
@@ -2190,7 +2188,6 @@ Studio ItemNo	BaseStudioItemNo	BL ItemNo	BL ItemKey	LDraw ItemNo	LDD ItemNo	Desc
 1931	1931	6216	1931	6216.dat	6216	Slope, Curved 4 x 2 x 2 Triple	o	81	2	6	False		False	5007		
 87318	87318	85970	87318	85970.dat	85970	Slope, Curved 10 x 1	o	81	2	6	False		False	5007		
 10490	10490	42023	10490	42023.dat	41763	Slope, Curved 6 x 1 Inverted	o	81	2	6	False		False	5007		
-166063	122934	15068pb140	166063	15068pb140.dat		Slope, Curved 2 x 2 with Dark Blue, Dark Azure and White Arctic Explorers Logo Pattern	o	81	3	6	False		True	5007		
 669	669	3685	669	3685.dat	3685	Slope 75 2 x 2 x 3 Double Convex	o	81	1	5	False		False	5006	5006	
 153566	91346	88930pb075	153566	88930pz0.dat		Slope, Curved 2 x 4 x 2/3 with Bottom Tubes with Black Lines and Dark Red Trapezoid Pattern	o	81	3	6	False		True	5007		
 156081	156081	23949	156081	23949.dat		Slope 45 2 x 6	o	81	1	5	False		False	5006	5006	
@@ -4738,7 +4735,6 @@ Studio ItemNo	BaseStudioItemNo	BL ItemNo	BL ItemKey	LDraw ItemNo	LDD ItemNo	Desc
 179513	179513	45755pb02	179513	45755pb02.dat		Minifigure, Headgear Head Cover, Costume Pizza Slice with Yellow Cheese, Dark Red Sauce and Pepperoni Pattern	o	59	6	30	False		False	5094	5097	
 176233	1710	973pb3515	176233	973pb3515.dat		Torso Tan Fur on Chest with Black and White Tail to Left on Back Pattern	o	59	10	28	False		True	5101	5103	
 3191	3191	4502c	3191	87694.dat	87694	Minifigure, Plume Feather Large	o	59	7	30	False		False	5094	5098	
-167763	164632	36036pb05	167763	36036pb05.dat		Lower Body, Skirt with Black Folds Pattern	o	59	14	28	False		True	5108	5114	
 187886	187886	66909	187886	66909.dat		Minifigure, Weapon Hilt Smooth Extended	o	59	13	32	False		False	5114	5117	
 176924	-3636	93552pb03	176924	93552pb03.dat		Minifigure, Utensil Paint Brush with Orange Tip Pattern	o	59	12	32	False		True	5114	5116	
 181153	1710	973pb3702	181153	973pb3702.dat		Torso Female Metallic Pink Robe with White Hems, Spots, and Shirt with White Filigree Pattern	o	59	10	28	False		True	5101	5103	
@@ -6122,7 +6118,6 @@ Studio ItemNo	BaseStudioItemNo	BL ItemNo	BL ItemKey	LDraw ItemNo	LDD ItemNo	Desc
 148260	148260	26064	148260	26064.dat		Scorpion Tail	o	3	3	33	False		False	5119	5122	
 114762	-114762	11568pb01	114762	11568p01.dat		Squirrel, Friends / Elves with Black, Green and White Eyes and Black Eyelashes, Nose and Mouth Pattern	o	3	5	33	False		true	5119	5124	
 2048	2048	x112	2048	33122.dat	33122	Starfish / Sea Star	o	3	6	33	False		False	5119	5125	
-172858	126422	15429pb13	172858	15429pb13.dat		Cat Tail with Rainbow Pattern	o	3	3	33	False		True	5119	5122	
 2022	2022	2547	2022	2547a.dat	2547	Shark Middle	o	3	3	33	False		False	5119	5122	
 1796	1796	30115	1796	30115.dat	30115	Snake	o	3	5	33	False		False	5119	5124	
 105327	105327	98136	105327	98136.dat	98136	Snake, Raised	o	3	5	33	False		False	5119	5124	
@@ -6678,7 +6673,6 @@ Studio ItemNo	BaseStudioItemNo	BL ItemNo	BL ItemKey	LDraw ItemNo	LDD ItemNo	Desc
 330	326	3010p06	330	3010p06.dat		Brick 1 x 4 with Red Danger Stripes on Un-Printed Background Pattern	o	14	1	1	False		True	5001		
 333	326	3010p15	333	3010p15.dat		Brick 1 x 4 with Red Danger Stripes on Printed White Background Pattern	o	14	1	1	False		True	5001		
 37730	326	3010pb011b	37730	3010pt1.dat		Brick 1 x 4 with Black 'L 17.5 TON' and 'T 10.6 TON' Pattern	o	14	1	1	False		True	5001		
-164311	91185	3245cpb071	164311	3245cpb071.dat		Brick 1 x 2 x 2 with Inside Stud Holder with Dark Bluish Gray Outlined Vest and Belt and White Undershirt Pattern (BrickHeadz Gamora Torso)	o	14	1	1	False		True	5001		
 43074	326	3010pb032	43074	3010pt3.dat		Brick 1 x 4 with Black 'L 15.5 TON' and 'T 9.1 TON' Pattern	o	14	1	1	False		True	5001		
 43073	326	3010pb033	43073	3010pt2.dat		Brick 1 x 4 with Black 'L 18 TON' and 'T 16 TON' Pattern	o	14	1	1	False		True	5001		
 1203	326	3010p42	1203	3010p42.dat		Brick 1 x 4 with Yellow Left Arrow and Black Border Pattern	o	14	1	1	False		True	5001		
@@ -6938,7 +6932,6 @@ Studio ItemNo	BaseStudioItemNo	BL ItemNo	BL ItemKey	LDraw ItemNo	LDD ItemNo	Desc
 2413	449	3067pb07	2413	3067p11.dat		Brick 1 x 6 without Bottom Tubes with White 'TAXI' Pattern	o	14	1	1	False		True	5001		
 313	310	3008p03	313	3008p03.dat		Brick 1 x 8 with Black 'GARAGE' Sans-Serif Thick Pattern, Plain 'G'	o	14	1	1	False		True	5001		
 172857	632	3622pb104	172857	3622pb104.dat		Brick 1 x 3 with Cat Face and Sunglasses Pattern (Disco Kitty)	o	14	1	1	False		True	5001		
-172861	91185	3245cpb095	172861	3245cpb095.dat		Brick 1 x 2 x 2 with Inside Stud Holder with Lavender and Coral Shirt Pattern (Zebe)	o	14	1	1	False		True	5001		
 116618	109	2454pb068	116618	2454dm0.dat		Brick 1 x 2 x 5 with Diamond Bricks Pattern (Sticker) - Set 9473	o	14	1	1	False		True	5001		
 10463	109	2454pb001	10463	2454pb001.dat		Brick 1 x 2 x 5 with Stone Pattern	o	14	1	1	False		True	5001		
 97733	449	crssprt02pb66	97733	3067ap05.dat		Brick 1 x 6 without Bottom Tubes with Cross Side Supports with Red 'KIOSK' Thin Pattern	o	14	1	1	False		True	5001		
@@ -6999,7 +6992,6 @@ Studio ItemNo	BaseStudioItemNo	BL ItemNo	BL ItemKey	LDraw ItemNo	LDD ItemNo	Desc
 161144	326	3010pb221	161144	3010pb221.dat		Brick 1 x 4 with Gold Scales Pattern	o	14	1	1	False		True	5001		
 161145	280	3004pb160	161145	3004pz9.dat		Brick 1 x 2 with Reddish Brown Muscles Outline Pattern	o	14	1	1	False		True	5001		
 139403	756	3941pb13	139403	3941d01.dat		Brick, Round 2 x 2 with Axle Hole with 'POWERED BY allinol' Pattern (Sticker) - Set 8206	o	14	3	2	False		True	5002	5002	
-161279	280	3004pb162	161279	3004pb162.dat		Brick 1 x 2 with Minecraft Pixelated Lit Forge Pattern	o	14	1	1	False		True	5001		
 159706	326	3010pb218	159706	3010pzq.dat		Brick 1 x 4 with 4 Black Squares and Black Stripe Pattern	o	14	1	1	False		True	5001		
 2488	280	3004pb007	2488	3004pb007.dat		Brick 1 x 2 with Lego Logo Closed O Style White with Black Outline Pattern	o	14	1	1	False		True	5001		
 130388	280	3004pb122	130388	3004ptc1.dat		Brick 1 x 2 with Black 'TNT' Pixelated Pattern	o	14	1	1	False		True	5001		
@@ -7052,7 +7044,6 @@ Studio ItemNo	BaseStudioItemNo	BL ItemNo	BL ItemKey	LDraw ItemNo	LDD ItemNo	Desc
 92819	272	3003pb026	92819	3003pe3.dat		Brick 2 x 2 with Eye with White Pattern on Two Sides, White Circle in Pupil, Offset	o	14	1	1	False		True	5001		
 2072	299	3005ptg	2072	3005ptg.dat		Brick 1 x 1 with Blue 'G' Pattern	o	14	1	1	False		True	5001		
 49133	41992	3008pb024	49133	925p04.dat		Brick 1 x 8 with Red 'ESSO WAGENPFLEGE' Pattern	o	14	1	1	False		True	5001		
-171600	326	3010pb258	171600	3010pb258.dat		Brick 1 x 4 with Red and Green Waves (Octan Fuel) Pattern	o	14	1	1	False		True	5001		
 16821	310	3008px7	16821	3008p08.dat		Brick 1 x 8 with Fire Logo Badge and White Diagonal Stripes Pattern	o	14	1	1	False		True	5001		
 57440	310	3008pb005	57440	3008p23.dat		Brick 1 x 8 with Ferry Stripes Light Blue 6 in 2 Lines Pattern (Set 1581)	o	14	1	1	False		True	5001		
 102092	272	3003pb056	102092	3003p22.dat		Brick 2 x 2 with Black '22' Pattern	o	14	1	1	False		True	5001		
@@ -8063,7 +8054,6 @@ Studio ItemNo	BaseStudioItemNo	BL ItemNo	BL ItemKey	LDraw ItemNo	LDD ItemNo	Desc
 82749	42388	45677pb014	82749	45677pb014.dat		Wedge 4 x 4 x 2/3 Triple Curved with Train Logo Silver Pattern (Sticker) - Sets 4514 / 10128	o	107	-1	5	False		True	5006	5008	
 87337	64	2399pb06	87337	2399dt0.dat		Wedge 3 x 4 without Stud Notches with Grille Pattern on Both Sides (Stickers) - Set 5591	o	107	-1	5	False		True	5006	5008	
 94785	1536	6565pb09	94785	6565dt0.dat		Wedge 3 x 2 Left with Grille Pattern (Sticker) - Set 5591	o	107	-1	5	False		True	5006	5008	
-169437	118769	13548pb001	169437	13548pb001.dat		Wedge 2 x 2 (Slope 45 Corner) with White Polka Dots Pattern	o	107	-1	5	False		True	5006	5008	
 97346	49766	47753pb021	97346	47753pq2.dat		Wedge 4 x 4 No Studs with Bricks, Blue Lines and 2 Eyes Pattern (Cobra Head)	o	107	-1	5	False		True	5006	5008	
 85232	99418	64867pb01	85232	64867p01.dat		Wedge 4 x 4 Fractured Polygon Top with Dark Bluish Gray Facets Pattern (Rock Monster Giant)	o	107	-1	5	False		True	5006	5008	
 49220	49219	48933pb001	49220	48933ps1.dat		Wedge 4 x 4 Triple with Stud Notches with Light Bluish Gray Stripe Mini Slave I Pattern (6964)	o	107	-1	5	False		True	5006	5008	
@@ -8770,7 +8760,6 @@ Studio ItemNo	BaseStudioItemNo	BL ItemNo	BL ItemKey	LDraw ItemNo	LDD ItemNo	Desc
 108	103878	2453	108	2453.dat	2453	Brick 1 x 1 x 5 (Undetermined Stud Type)	o	0	0	0	False		false			
 -1455	299	3005pto	2080	3005-o.dat		Brick 1 x 1 with Blue 'O' Pattern	o	0	0	0	False		True			
 -1460	299	3005ptt	2085	3005-t.dat		Brick 1 x 1 with Blue 'T' Pattern	o	0	0	0	False		True			
-2622	417	3039px14	2622	3039px14.dat		Slope 45 2 x 2 with Phone and Minifigure Pattern	o	82	1	5	False		True	5006	5006	
 -1462	299	3005ptv	2087	3005-v.dat		Brick 1 x 1 with Blue 'V' Pattern	o	0	0	0	False		True			
 -133	101169	4460a	101169	275.dat		Slope 75 2 x 1 x 3 - Open Stud	o	0	0	0	False		True			
 -1464	299	3005ptx	2089	3005-x.dat		Brick 1 x 1 with Blue 'X' Pattern	o	0	0	0	False		True			
@@ -8851,7 +8840,6 @@ Studio ItemNo	BaseStudioItemNo	BL ItemNo	BL ItemKey	LDraw ItemNo	LDD ItemNo	Desc
 -1320	8566	4186a	8566	782h.dat		Baseplate 50 x 50	o	0	0	0	False		True			
 3592	1879	30366px2	3592	30366ps1.dat		Windscreen 3 x 6 x 5 Bubble with SW 8 Spoke Radial Pattern - (Undetermined Version)	o	0	0	0	False		True			
 -3078	-3078			6099.dat		baseplate 32 x 32 road 9-stud landing pad	o	0	0	0	False		False			
-93300	193	2694pb01r	93300	2694pb01r.dat		Windscreen 3 x 10 x 3 with Large Window Right, Small Window Left Pattern	o	113	-1	11	False		True	5062		
 -2579	-2579			4478.dat		baseplate 32 x 32 road 9-stud driveway	o	0	0	0	False		False			
 2014	2014	6567c00	2014	6567c00.dat		Windscreen 2 x 6 x 2 Train with Glass - (Undetermined Glass Color Version)	o	0	0	0	False		False			
 -104	805	4176	805	198.dat		Windscreen 2 x 6 x 2	o	0	0	0	False		True			
@@ -8885,7 +8873,6 @@ Studio ItemNo	BaseStudioItemNo	BL ItemNo	BL ItemKey	LDraw ItemNo	LDD ItemNo	Desc
 -831	-831	613p01	1458	4109601.dat		Baseplate, Road 32 x 32 8-Stud Curve with Road Pattern	o	0	0	0	False		False			
 -146	1366	4872	1366	302.dat		Windscreen 3 x 4 x 4 Inverted	o	0	0	0	False		True			
 -833	-833	611p01	1449	4109603.dat		Baseplate, Road 32 x 32 8-Stud Crossroads with Road Pattern	o	0	0	0	False		False			
-93301	193	2694pb01l	93301	2694pb01l.dat		Windscreen 3 x 10 x 3 with Large Window Left, Small Window Right Pattern	o	113	-1	11	False		True	5062		
 -683	-683	2359p01	54	80546.dat		Baseplate, Road 32 x 32 7-Stud Curve with Road Pattern	o	0	0	0	False		False			
 1981	1981	32569	1981	32569.dat		Bionicle Mask Akaku	o	9	-1	18	False		False	5044	5045	
 44087	44087	44814	44087	44814.dat		Bionicle Mask Avohkii	o	9	-1	18	False		False	5044	5045	
@@ -8900,7 +8887,6 @@ Studio ItemNo	BaseStudioItemNo	BL ItemNo	BL ItemKey	LDraw ItemNo	LDD ItemNo	Desc
 -273	75	2418b	75	2418.dat		Windscreen 6 x 6 Octagonal Canopy with Axle Hole	o	0	0	0	False		True			
 -1154	410	30372p79	411	30372ps0.dat		Windscreen 7 x 4 x 1 2/3 with SW Pattern	o	0	0	0	False		True			
 -172	1416	6070	1416	388.dat		Windscreen 5 x 2 x 1 2/3	o	0	0	0	False		True			
-126939	410	30372pb04	126939	30372pb04.dat		Windscreen 7 x 4 x 1 2/3 with SW Red Triangle Pattern	o	113	-1	11	False		True	5062		
 42326	42326	44807	42326	44807.dat		Bionicle Head, Rahkshi	o	9	-1	18	False		False	5044	5045	
 -528	10855	41749	10855	42019.dat		Wedge 8 x 3 x 2 Open Right	o	0	0	0	False		True			
 17243	17243	43853	17243	43853.dat		Bionicle Mask Hau Nuva	o	9	-1	18	False		False	5044	5045	
@@ -9212,7 +9198,6 @@ Studio ItemNo	BaseStudioItemNo	BL ItemNo	BL ItemKey	LDraw ItemNo	LDD ItemNo	Desc
 -548	132615	44375	17758	45729.dat		Dish 6 x 6 Inverted (Radar) Undetermined Stud Type Version)	o	0	0	0	False		True			
 -357	84995	4285b	84995	4285.dat		Dish 6 x 6 Inverted (Radar) Webbed - Type 2 (underside attachment positions at 90 degrees)	o	0	0	0	False		True			
 -541	132615	44375	17758	44375.dat		Dish 6 x 6 Inverted (Radar) Undetermined Stud Type Version)	o	0	0	0	False		True			
-115602	764	3961pb04	115602	3961pb04.dat		Dish 8 x 8 Inverted (Radar) with Red, Black and Pearl Gold Geometric Pattern	o	27	-1	8	False		True	5020		
 -1364	103166	99798c01	103166	99798b.dat		Pneumatic Pump Small (6L)	o	0	0	0	False		True			
 -1248	9236	4694c01	9236	4694c03.dat		Pneumatic Switch with Top Studs	o	0	0	0	False		True			
 -86	509	3189	509	158.dat		Door 1 x 3 x 2 Left	o	0	0	0	False		True			
@@ -9242,7 +9227,6 @@ Studio ItemNo	BaseStudioItemNo	BL ItemNo	BL ItemKey	LDraw ItemNo	LDD ItemNo	Desc
 -1288	1591	712	1591	712b.dat		Plate, Round Curved 4 x 8 Left	o	0	0	0	False		True			
 -232	1591	712	1591	712.dat		Plate, Round Curved 4 x 8 Left	o	0	0	0	False		True			
 -566	2848	2958	2848	52901.dat		Technic, Disk 3 x 3	o	0	0	0	False		True			
-103349	409	3037pb019	103349	3037pb019.dat		Slope 45 2 x 4 with Train Logo Black Pattern (Sticker) - Set 4564	o	82	1	5	False		True	5006	5006	
 -141	1323	4740	1323	296.dat		Dish 2 x 2 Inverted (Radar)	o	0	0	0	False		True			
 2309	66447	3614	2309	3614.dat	3614	Plate, Round 1 x 1 with Towball - Undetermined Hole Type	o	0	0	0	False		True			
 -557	133308	50990a	133308	50990.dat		Dish 10 x 10 Inverted (Radar) - Hollow Studs	o	0	0	0	False		True			
@@ -9294,8 +9278,6 @@ Studio ItemNo	BaseStudioItemNo	BL ItemNo	BL ItemKey	LDraw ItemNo	LDD ItemNo	Desc
 -370	17485	4738a	17485	4738.dat		Container Treasure Chest Bottom - Slots in Back	o	0	0	0	False		True			
 -570	17485	4738a	17485	54195.dat		Container Treasure Chest Bottom - Slots in Back	o	0	0	0	False		True			
 -603	17488	4739a	17488	62623.dat		Container Treasure Chest Lid - Thick Hinge	o	0	0	0	False		True			
-76738	808	4181pb006	76738	4181pb006.dat		Door 1 x 4 x 5 Train Left with Yellow Modified Triangle Pattern (Sticker) - Set 5542	o	30	-1	11	False		True	5057	5058	
-76737	808	4181pb007	76737	4181pb007.dat		Door 1 x 4 x 5 Train Left with Yellow Stripe Pattern (Sticker) - Set 5542	o	30	-1	11	False		True	5057	5058	
 1322	17488	4739	1322	4739.dat	4739	Container Treasure Chest Lid - (Undetermined Hinge Type Version)	o	0	0	0	False		True			
 -819	17988	3492c01	17988	4100545.dat		Crane Bucket (Top, Jaws, Spring)	o	0	0	0	False		True			
 -407	17988	3492c01	17988	7940.dat		Crane Bucket (Top, Jaws, Spring)	o	0	0	0	False		True			
@@ -9306,8 +9288,6 @@ Studio ItemNo	BaseStudioItemNo	BL ItemNo	BL ItemKey	LDraw ItemNo	LDD ItemNo	Desc
 42679	38297	43898px2	42679	43898px2.dat		Dish 3 x 3 Inverted (Radar) with Orient China Hat Pattern	o	27	-1	8	False		True	5020		
 -582	38297	43898	38297	56640.dat		Dish 3 x 3 Inverted (Radar)	o	0	0	0	False		True			
 -472	763	3960	763	30065.dat		Dish 4 x 4 Inverted (Radar) with Solid Stud	o	0	0	0	False		True			
-76739	815	4182pb007	76739	4182pb007.dat		Door 1 x 4 x 5 Train Right with Yellow Stripe Pattern (Sticker) - Set 5542	o	30	-1	11	False		True	5057	5058	
-76740	815	4182pb006	76740	4182pb006.dat		Door 1 x 4 x 5 Train Right with Yellow Modified Triangle Pattern (Sticker) - Set 5542	o	30	-1	11	False		True	5057	5058	
 38307	38297	43898px1	38307	43898px1.dat		Dish 3 x 3 Inverted (Radar) with Orient India Shield Pattern	o	27	-1	8	False		True	5020		
 -1268	78047	60616	78047	60616b.dat		Door 1 x 4 x 6 with Stud Handle	o	0	0	0	False		True			
 -2	510	3192	510	5.dat		Door 1 x 3 x 3 Right	o	0	0	0	False		True			
@@ -9422,7 +9402,6 @@ Studio ItemNo	BaseStudioItemNo	BL ItemNo	BL ItemKey	LDraw ItemNo	LDD ItemNo	Desc
 -3405	-3405			85582.dat		technic bionicle thornax fruit	o	0	0	0	False		False			
 -400	685	3713	685	6590.dat		Technic Bush	o	0	0	0	False		True			
 -785	673	3702	673	370226.dat		Technic, Brick 1 x 8 with Holes	o	0	0	0	False		True			
-61194	409	3037px12	61194	3037px12.dat		Slope 45 2 x 4 with Red 'Air Canada' Pattern	o	82	1	5	False		True	5006	5006	
 -784	672	3701	672	370101.dat		Technic, Brick 1 x 4 with Holes	o	0	0	0	False		True			
 -11926	-11926			69c00.dat		Tap 1 x 2 Base with Light Gray Spout	o	0	0	0	False		False			
 -310	2123	70	2123	3278.dat		Tap 1 x 2 Spout	o	0	0	0	False		True			
@@ -10295,8 +10274,6 @@ Studio ItemNo	BaseStudioItemNo	BL ItemNo	BL ItemKey	LDraw ItemNo	LDD ItemNo	Desc
 -526	10490	42023	10490	41763.dat		Slope, Curved 6 x 1 Inverted	o	0	0	0	False		True			
 -436	77017	61678	77017	11153.dat		Slope, Curved 4 x 1	o	0	0	0	False		True			
 -994	77017	61678	77017	4520782.dat		Slope, Curved 4 x 1	o	0	0	0	False		True			
-117538	51829	50950pb061l	117538	50950pb061l.dat		Slope, Curved 3 x 1 with Orange and Yellow Shooting Star Pattern Model Left Side (Sticker) - Set 3183	o	81	3	6	False		True	5007		
-117537	51829	50950pb061r	117537	50950pb061r.dat		Slope, Curved 3 x 1 with Orange and Yellow Shooting Star Pattern Model Right Side (Sticker) - Set 3183	o	81	3	6	False		True	5007		
 49372	1710	973px89	49372	973px89.dat		Torso SW Loose Shirt, Black Belt and Silver Buckle Pattern (Naboo)	o	59	10	28	False		True	5101	5103	
 49376	1710	973px69	49376	973px69.dat		Torso SW TIE Pilot Pattern	o	59	10	28	False		True	5101	5103	
 -1362	1710	973pb0282	48691	973psb.dat		Torso SW Mandalorian Armor Plates Green Pattern (Boba Fett)	o	0	0	0	False		True			
@@ -10845,32 +10822,5 @@ Studio ItemNo	BaseStudioItemNo	BL ItemNo	BL ItemKey	LDraw ItemNo	LDD ItemNo	Desc
 175209	89363	60581pb115	175209	60581pb115.dat		Panel 1 x 4 x 3 with Side Supports - Hollow Studs with 'Vestas' Logo Pattern	o	66	-1	9	False		True	5017		
 177112	77915	60601pb020	177112	60601pb020.dat		Glass for Window 1 x 2 x 2 Flat Front with Scattered Newspapers Pattern	o	46	-1	11	False		True	5057	5060	
 185354	97760	92593pb038	185354	92593pb038.dat		Plate, Modified 1 x 4 with 2 Studs without Groove with Black Rectangle Pattern	o	70	2	9	False		True	5012	5012	
-191947	101835	93273pb133	191947	93273pb133.dat		Slope, Curved 4 x 1 Double with Black Utility Belt and 4 Pouches Pattern (BrickHeadz Boba Fett Belt)	o	81	3	6	False		True	5007		
-206513	206513	79393	206513	79393.dat		Tile, Round Corner 3 x 3 Macaroni	o	97	3	8	False		False	5015		
-205555	205555	79389	205555	79389.dat		Bracket 1 x 1 - 1 x 2	o	12	-1	9	False		False	5012	5013	
-205546	205546	78886	205546	78886.dat		Wedge 2 x 2 x 2 (Slope 65 Corner)	o	106	1	5	False		False	5006	5008	
-205259	205259	78257	205259	78257.dat		Plate, Modified 1 x 1 with Handles on Ends - Closed Ends	o	70	2	9	False		False	5012	5012	
-205257	205257	65826	205257	65826.dat		Technic, Pin 1/2 with Stud Receptacle	o	94	12	15	False		False	5034	5035	
-202736	202736	78168	202736	78168.dat		Plate, Modified 2 x 6 with Coupling, Female	o	70	2	9	False		False	5012	5012	
-185775	105246	98138pb128	185775	98138pb128.dat		Tile, Round 1 x 1 with Emoji, Bright Light Yellow Face, Black Eyebrows, Coral Heart Eyes, and '3' Puckered Lips Pattern	o	98	3	8	False		True	5015		
-199189	84	2431pb676	199189	2431pb676.dat		Tile 1 x 4 with Black 'S - CU 6000' Pattern	o	98	1	7	False		True	5014		
-185350	141671	22385pb184	185350	22385pb184.dat		Tile, Modified 2 x 3 Pentagonal with Black Pentagon Pattern	o	98	2	9	False		True	5016		
-199487	122934	15068pb334	199487	15068pb334.dat		Slope, Curved 2 x 2 with Black Grille Pattern (Sticker) - Set 10271	o	81	3	6	False		True	5007		
-199488	122934	15068pb335	199488	15068pb335.dat		Slope, Curved 2 x 2 with Silver 'nuova500' Pattern (Sticker) - Set 10271	o	81	3	6	False		True	5007		
-197205	157401	34103pb01	197205	34103pb01.dat		Plate, Modified 1 x 3 with 2 Studs (Double Jumper) with Two White Rectangles Pattern	o	70	2	9	False		True	5012	5012	
-108531	726	3846pb033	108531	3846pb033.dat		Minifigure, Shield Triangular with Town Hall Pattern	o	59	9	32	False		True	5114	5115	
-147253	726	3846pb039	147253	3846pb039.dat		Minifigure, Shield Triangular with Magenta Jewel and Gold Border Pattern (Sticker) - Set 41176	o	59	9	32	False		True	5114	5115	
-189606	51829	50950pb127l	189606	50950pb127l.dat		Slope, Curved 3 x 1 with Black Lines and Small Orange Rectangle Pattern Model Left Side (Stickers) - Set 75895	o	81	3	6	False		True	5007		
-189607	51829	50950pb127r	189607	50950pb127r.dat		Slope, Curved 3 x 1 with Black Lines and Small Orange Rectangle Pattern Model Right Side (Stickers) - Set 75895	o	81	3	6	False		True	5007		
-187512	90265	87079pb0706	187512	87079pb0706.dat		Tile 2 x 4 with 'STAR WARS 2020' Pattern	o	98	1	7	False		True	5014		
-199490	90265	87079pb0902	199490	87079pb0902.dat		Tile 2 x 4 with Swedish and Swiss Emblem and Black 'SWEDEN' Pattern (Sticker) - Set 10271	o	98	1	7	False		True	5014		
-199491	90265	87079pb0903	199491	87079pb0903.dat		Tile 2 x 4 with Heart Shaped Italian and Polish Flag and 'PL' Pattern (Sticker) - Set 10271	o	98	1	7	False		True	5014		
-199492	90265	87079pb0904	199492	87079pb0904.dat		Tile 2 x 4 with French and Danish Emblem, Black 'DANMARK', 'D' and Eiffel Tower Pattern (Sticker) - Set 10271	o	98	1	7	False		True	5014		
-199409	101731	93606pb110l	199409	93606pb110l.dat		Slope, Curved 4 x 2 with Black Rectangle Curved Outer Edges Pattern Model Left Side (Sticker) - Set 75895	o	81	3	6	False		True	5007		
-189608	101731	93606pb110r	189608	93606pb110r.dat		Slope, Curved 4 x 2 with Black Rectangle Curved Outer Edges Pattern Model Right Side (Sticker) - Set 75895	o	81	3	6	False		True	5007		
-199410	101731	93606pb132	199410	93606pb132.dat		Slope, Curved 4 x 2 with Porsche Logo on White Background Pattern (Sticker) - Set 75895	o	81	3	6	False		True	5007		
-175444	410	30372pb08	175444	30372pb08.dat		Windscreen 7 x 4 x 1 2/3 with SW Light Bluish Gray Snowspeeder Pattern	o	113	-1	11	False		True	5062		
-180902	326	3010pb276	180902	3010pb276.dat		Brick 1 x 4 with Light Turquoise, Magenta, and White Diamonds Pattern	o	14	1	1	False		True	5001		
-190429	378	3023pb02	190429	3023pb02.dat		Plate 1 x 2 with Metallic Gold Pattern on Long Edge	o	70	1	7	False		True	5009		
-197145	272	3003pb129	197145	3003pb129.dat		Brick 2 x 2 with Black and White Eye Pattern	o	14	1	1	False		True	5001		
+191947	101835	93273pb133	191947	93273pb133.dat		Slope, Curved 4 x 1 Double with Black Utility Belt and 4 Pouches Pattern (BrickHeadz Boba Fett Belt)	o	81	3	6	False		True	5007
 40918	40918	40918c01	40918	40918c01.dat		Technic Linear Actuator Long with Dark Bluish Gray Ends	o	94	1	17	True		False	5028	5028	
