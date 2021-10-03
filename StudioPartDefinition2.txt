@@ -10874,3 +10874,4 @@ Studio ItemNo	BaseStudioItemNo	BL ItemNo	BL ItemKey	LDraw ItemNo	LDD ItemNo	Desc
 190429	378	3023pb02	190429	3023pb02.dat		Plate 1 x 2 with Metallic Gold Pattern on Long Edge	o	70	1	7	False		True	5009		
 197145	272	3003pb129	197145	3003pb129.dat		Brick 2 x 2 with Black and White Eye Pattern	o	14	1	1	False		True	5001		
 40918	40918	40918c01	40918	40918c01.dat		Technic Linear Actuator Long with Dark Bluish Gray Ends	o	94	1	17	True		False	5028	5028	
+26674	bb0875	bb0875	bb0875	26674.dat		Pneumatic Pump Small (6L) V2 with Reinforced Cylinder	o	71	-1	22	True		False	5082	5084	
