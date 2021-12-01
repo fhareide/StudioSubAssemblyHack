@@ -26,7 +26,7 @@ This hack will only work for Studio 2.0
 1. Download "StudioPartDefinition2.txt" from this repository
 2. Make a copy of "StudioPartDefinition2.txt" in "C:\Program Files\Studio 2.0\data" and call it "StudioPartDefinition2.txt.bk" or something
 3. Replace the original file in "C:\Program Files\Studio 2.0\data" with the downloaded one
-4. Download "CustomParts" folder and put it in "C:\Users\\<usename>\AppData\Local\Stud.io" (If it doesn't exist just create it)
+4. Download "CustomParts" folder and put it in "C:\Users\\[username]\AppData\Local\Stud.io" (If it doesn't exist just create it)
 5. Restart Studio
 <br>
 <br>
