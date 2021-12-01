@@ -454,8 +454,10 @@ Studio ItemNo	BaseStudioItemNo	BL ItemNo	BL ItemKey	LDraw ItemNo	LDD ItemNo	Desc
 136114	17085	3068bpb0934	136114	3068bp8c.dat		Tile 2 x 2 with Groove with Ice Cream Cone on Pink and White Pattern	o	98	1	7	False		true	5014		
 116779	17085	3068bpb0655	116779	3068bp0c.dat		Tile 2 x 2 with Groove with Gold Star with Brick in Center Pattern	o	98	1	7	False		True	5014		
 162210	798	4162pb181	162210	4162pb181.dat		Tile 1 x 8 with 'Shanghai' Pattern	o	98	1	7	False		True	5014		
+169595	119785	14769pb232	169595	14769pb232.dat		Tile, Round 2 x 2 with Bottom Stud Holder with Mirrored Gold Pattern (Sticker) - Set 10257	o	98	3	8	False		True	5015		
 3106	17085	3068pb09	3106	3068bpf9.dat		Tile 2 x 2 with Number  5 Fabuland Pattern	o	98	1	7	False		True	5014		
 39537	17085	3068pb34	39537	3068bpfe.dat		Tile 2 x 2 with Number  5 Fabuland Yellow/Red Background Pattern	o	98	1	7	False		True	5014		
+169596	119785	14769pb233	169596	14769pb233.dat		Tile, Round 2 x 2 with Bottom Stud Holder with White Flower on Mirrored Gold Background Pattern (Sticker) - Set 10257	o	98	3	8	False		True	5015		
 144620	9081	3070bpb100	144620	3070bpb100.dat		Tile 1 x 1 with Groove with Blue and White Falcon on Pentagonal Shield Pattern	o	98	1	7	False		True	5014		
 3546	9081	3070px1	3546	3070bp60.dat		Tile 1 x 1 with Groove with Green Oval Pattern	o	98	1	7	False		True	5014		
 141833	9081	3070bpb093	141833	3070bpb093.dat		Tile 1 x 1 with Groove with Black Script, Question Mark, and Smiley Face Pattern	o	98	1	7	False		True	5014		
@@ -788,6 +790,7 @@ Studio ItemNo	BaseStudioItemNo	BL ItemNo	BL ItemKey	LDraw ItemNo	LDD ItemNo	Desc
 157974	141671	22385pb127	157974	22385pb127.dat		Tile, Modified 2 x 3 Pentagonal with Nexo Power Shield Pattern - Snake Den	o	98	2	9	False		True	5016		
 167748	105246	98138pb091	167748	98138pb091.dat		Tile, Round 1 x 1 with Cinnamon Roll Pattern	o	98	3	8	False		True	5015		
 167749	105246	98138pb092	167749	98138pb092.dat		Tile, Round 1 x 1 with Pastry Pattern	o	98	3	8	False		True	5015		
+166908	163644	35787pb001	166908	35787pb001.dat		Tile, Modified 2 x 2 Triangular with Silver Dots and Pearl Dark Gray Lines Pattern (BrickHeadz Darth Vader Breathing Mask)	o	98	2	9	False		True	5016		
 166937	166937	63864pb072	166937	63864pb072.dat		Tile 1 x 3 with Dark Red Square and 4 Stripes Pattern (BrickHeadz Harry Potter / Ron Weasley Scarf)	o	98	1	7	False		True	5014		
 166910	84	2431pb526	166910	2431pz4.dat		Tile 1 x 4 with 11 Light Bluish Gray Rectangles Pattern (BrickHeadz Stormtrooper Belt)	o	98	1	7	False		True	5014		
 157971	141671	22385pb124	157971	22385pb124.dat		Tile, Modified 2 x 3 Pentagonal with Nexo Power Shield Pattern - Air Portal	o	98	2	9	False		True	5016		
@@ -807,7 +810,7 @@ Studio ItemNo	BaseStudioItemNo	BL ItemNo	BL ItemKey	LDraw ItemNo	LDD ItemNo	Desc
 185758	146775	25269pb006	185758	25269pb006.dat		Tile, Round 1 x 1 Quarter with Bright Light Yellow Spots, Bright Pink and Metallic Light Blue Lines Pattern	o	98	3	8	False		True	5015		
 174900	174900	63864pb080	174900	63864pb080.dat		Tile 1 x 3 with Silver Ford Mustang Logo on Black Background Pattern	o	98	1	7	False		True	5014		
 174893	174893	26603pb032	174893	26603pb032.dat		Tile 2 x 3 with Dark Blue Stripe Pattern	o	98	1	7	False		True	5014		
-174887	174887	87079pb566	174887	87079pb566.dat		Tile 2 x 4 with Dark Blue Stripe Pattern	o	98	1	7	False		True	5014		
+174887	174887	87079pb0566	174887	87079pb566.dat		Tile 2 x 4 with Dark Blue Stripe Pattern	o	98	1	7	False		True	5014		
 176145	176145	98138pb104	176145	98138pb104.dat		Tile, Round 1 x 1 with White Six Pointed Snowflake Pattern	o	98	3	8	False		True	5015		
 167042	167042	98138pb090	167042	98138pb090.dat		Tile, Round 1 x 1 with 2 White Squares on Black Background Pattern (BrickHeadz Hedwig Eye)	o	98	3	8	False		True	5015		
 166995	166995	2431pb528	166995	2431pb528.dat		Tile 1 x 4 with 10 Small Medium Nougat Squares / Freckles Pattern (BrickHeadz Anna Lower Face)	o	98	1	7	False		True	5014		
@@ -999,6 +1002,7 @@ Studio ItemNo	BaseStudioItemNo	BL ItemNo	BL ItemKey	LDraw ItemNo	LDD ItemNo	Desc
 49646	9081	3070bpb025	49646	3070bptq.dat		Tile 1 x 1 with Groove with Letter Capital Q Pattern (Undetermined Font Size and Line Type)	o	98	1	7	False		True	5014		
 42879	792	4150px24	42879	4150ps0.dat		Tile, Round 2 x 2 with Hatch Hexagonal Pattern	o	98	3	8	False		True	5015		
 49645	9081	3070bpb024	49645	3070bptp.dat		Tile 1 x 1 with Groove with Letter Capital P Pattern	o	98	1	7	False		True	5014		
+173499	105246	98138pb098	173499	98138pb098.dat		Tile, Round 1 x 1 with Black Eye with Pupil Half Circle Pattern	o	98	3	8	False		True	5015		
 1224	792	4150ps4	1224	4150ps4.dat		Tile, Round 2 x 2 with Grille Fine Mesh Pattern	o	98	3	8	False		True	5015		
 137593	17084	3069bpb0399	137593	3069bpb399.dat		Tile 1 x 2 with Groove with Radio Frequency and Buttons Pattern	o	98	1	7	False		True	5014		
 49634	9081	3070bpb013	49634	3070bpte.dat		Tile 1 x 1 with Groove with Letter Capital E Pattern	o	98	1	7	False		True	5014		
@@ -3241,6 +3245,7 @@ Studio ItemNo	BaseStudioItemNo	BL ItemNo	BL ItemKey	LDraw ItemNo	LDD ItemNo	Desc
 173783	173783	3626cpb2305	173783	3626cpb2305.dat		Minifigure, Head Dual Sided Female, Black Eyebrows, Dark Pink Stripes on Cheeks, Left Eye Winking / Blowing Bubblegum Bubble Pattern - Hollow Stud	o	59	4	29	False		true	5094	5094	
 53481	1710	973p72	53481	973p72.dat		Torso Necklace Gold and Yellow Undershirt Pattern	o	59	10	28	False		True	5101	5103	
 173781	173781	970c01pb49	173781	970c01pb49.dat		Hips and White Legs with Blue Panels with Dark Pink Straps Pattern	o	59	8	28	true		true	5108	5112	
+174186	193536	34172pb03	174186	34172pb03.dat		Minifigure, Utensil Bowl Asian with Gold Stripes Pattern	o	59	12	32	False		True	5114	5116	
 174207	174207	93220pb04	174207	93220pb04.dat		Minifigure, Utensil Baseball Bat 4L with 3 Metallic Silver Diamond Panels with Rivets Pattern	o	59	12	32	False		True	5114	5116	
 76324	76324	60748	76324	60748.dat	60748	Minifigure, Headgear Helmet Castle with Cheek Protection and Studded Bands (Dwarf)	o	59	6	30	False		False	5094	5097	
 16994	637	3626bpb0054	16994	3626bp3n.dat		Minifigure, Head Moustache, Stubble and Sideburns Black Pattern - Blocked Open Stud	o	59	4	29	False		true	5094	5094	
@@ -4145,6 +4150,7 @@ Studio ItemNo	BaseStudioItemNo	BL ItemNo	BL ItemKey	LDraw ItemNo	LDD ItemNo	Desc
 38793	940	970c00pb0019	38793	3815c63.dat		Hips and Legs with Silver and Black Belt, Silver Armor Thigh Joints with Red and Black Knee Pads Pattern (Spyrius, Exploriens)	o	59	8	28	true		True	5108	5112	
 137782	1710	973pb2070	137782	973pb2070.dat		Torso Sweater with Dark Azure Shirt with Collar and Orange Ascot Tie Pattern (Fred)	o	59	10	28	False		True	5101	5103	
 170428	170428	93220pb03	170428	93220pb03.dat		Minifigure, Utensil Baseball Bat 4L with Black Grip Handle Pattern	o	59	12	32	False		True	5114	5116	
+170501	1710	973pb3328	170501	973pb3328.dat		Torso with White Belt with Light Bluish Gray Triangle Buckle Pattern	o	59	10	28	False		True	5101	5103	
 128525	940	970c00pb0327	128525	3815c8i.dat		Hips and Legs with Belt, Reflective Stripes, 'EMMET' Name Tag and Silver Triangles on Feet Pattern	o	59	8	28	true		True	5108	5112	
 123531	940	970c00pb0282	123531	3815c8h.dat		Hips and Legs with Belt, Reflective Stripes and 'EMMET' Name Tag Pattern	o	59	8	28	true		True	5108	5112	
 110541	940	970c120pb01	110541	3815cm1.dat		Hips and Dark Brown Legs with Scale Mail Pattern	o	59	8	28	true		True	5108	5112	
@@ -7229,7 +7235,7 @@ Studio ItemNo	BaseStudioItemNo	BL ItemNo	BL ItemKey	LDraw ItemNo	LDD ItemNo	Desc
 91185	91185	3245c	91185	3245c.dat		Brick 1 x 2 x 2 with Inside Stud Holder	o	13	1	1	False		False	5001		
 3164	3164	30526	3164	30526.dat	30526	Brick, Modified 1 x 2 with Pins	o	13	3	3	False		False	5004	5004	
 280	280	3004	280	3004.dat	3004	Brick 1 x 2	o	13	1	1	False		False	5001		
-57346	104500	553b	57346	30367b.dat		Brick, Round 2 x 2 Dome Top - Blocked Open Stud with Bottom Axle Holder x Shape + Orientation	o	13	5	2	False		True	5002	5002	
+57346	104500	553b	57346	30367b.dat		Brick, Round 2 x 2 Dome Top - Blocked Open Stud with Bottom Axle Holder x Shape + Orientation	o	13	5	2	False		False	5002	5002	
 105319	105319	98283	105319	98283.dat	98283	Brick, Modified 1 x 2 with Masonry Profile	o	13	3	3	False		False	5004	5004	
 1473	1473	6182	1473	6182.dat	6182	Arch 1 x 4 x 2	o	13	2	6	False		False	5004	5003	
 47921	47921	47974	47921	47974.dat	47974	Brick, Round Corner 4 x 8 Full Brick Double	o	13	5	2	False		False	5002	5002	
@@ -7950,7 +7956,7 @@ Studio ItemNo	BaseStudioItemNo	BL ItemNo	BL ItemKey	LDraw ItemNo	LDD ItemNo	Desc
 134214	134214	18978b	134214	18978b.dat		Wheel Cover 10 Spoke - for Wheel 18976	o	108	2	25	False		False	5063	5559	
 75848	75848	58088	75848	58088.dat	58088	Wheel Cover 7 Spoke with Axle Hole - 56mm D. - for Wheel 44772	o	108	2	25	False		False	5063	5559	
 137305	137305	19215	137305	19215.dat		Wheel Cover 5 Spoke Thick with Edge Bolts - for Wheel 56145	o	108	2	25	False		False	5063	5559	
-134336	134336	18979b	134336	18979b.dat		Wheel Cover 7 Spoke Y Shape - for Wheel 18976	o	108	2	25	False		False	5063	5559	
+1343360	1343360	18979b	134336	18979a.dat		Wheel Cover 7 Spoke Y Shape - for Wheel 18976	o	108	2	25	False		False	5063	5559	
 69765	69765	4259	69765	4259.dat		Wheel FreeStyle with Pin Hole	o	108	1	25	False		False	5063	5072	
 1121	1121	32197	1121	32197.dat		Wheel 81.6 x 34 ZR Three Spoke Swirl	o	108	1	25	False		False	5063	5072	
 11	11	122c01	11	122c01.dat		Plate, Modified 2 x 2 with Wheels Red	o	108	1	25	False		False	5063	5072	
@@ -7961,7 +7967,7 @@ Studio ItemNo	BaseStudioItemNo	BL ItemNo	BL ItemKey	LDraw ItemNo	LDD ItemNo	Desc
 3332	3332	30155	3332	30155.dat	30155	Wheel Spoked 2 x 2 with Pin Hole	o	108	1	25	False		False	5063	5072	
 121695	121695	15038	121695	15038.dat	15038	Wheel 56mm D. x 34mm Technic Racing Medium, 6 Pin Holes	o	108	1	25	False		False	5063	5072	
 80681	80681	62701	80681	62701.dat	62701	Wheel Cover 9 Spoke - 24mm D. - for Wheels 55982 and 56145	o	108	2	25	False		False	5063	5559	
-134335	134335	18979a	134335	18979a.dat		Wheel Cover 10 Spoke T Shape - for Wheel 18976	o	108	2	25	False		False	5063	5559	
+1343350	1343350	18979a	134335	18979b.dat		Wheel Cover 10 Spoke T Shape - for Wheel 18976	o	108	2	25	False		False	5063	5559	
 495	495	3137	495	3137a.dat		Brick, Modified 2 x 2 with Wheels Holder	o	108	1	25	False		False	5063	5072	
 44784	44784	4720	44784	4720.dat		Wheel Bicycle without Tire	o	108	1	25	False		False	5063	5072	
 144136	144136	24308b	144136	24308b.dat		Wheel Cover 10 Spoke Y Shape - for Wheel 18976	o	108	2	25	False		False	5063	5559	
@@ -8902,6 +8908,7 @@ Studio ItemNo	BaseStudioItemNo	BL ItemNo	BL ItemKey	LDraw ItemNo	LDD ItemNo	Desc
 -172	1416	6070	1416	388.dat		Windscreen 5 x 2 x 1 2/3	o	0	0	0	False		True			
 126939	410	30372pb04	126939	30372pb04.dat		Windscreen 7 x 4 x 1 2/3 with SW Red Triangle Pattern	o	113	-1	11	False		True	5062		
 42326	42326	44807	42326	44807.dat		Bionicle Head, Rahkshi	o	9	-1	18	False		False	5044	5045	
+9528	9528	42042	9528	42042.dat		Bionicle Krana Holder 3 x 4 (Scoop / Bucket with Axle Hole)	o	9	-1	18	False		False	5044	5045	
 -528	10855	41749	10855	42019.dat		Wedge 8 x 3 x 2 Open Right	o	0	0	0	False		True			
 17243	17243	43853	17243	43853.dat		Bionicle Mask Hau Nuva	o	9	-1	18	False		False	5044	5045	
 1982	1982	32505	1982	32505.dat		Bionicle Mask Hau	o	9	-1	18	False		False	5044	5045	
@@ -8921,6 +8928,7 @@ Studio ItemNo	BaseStudioItemNo	BL ItemNo	BL ItemKey	LDraw ItemNo	LDD ItemNo	Desc
 -943	39329	43719	39329	4234927.dat		Wedge, Plate 4 x 4	o	0	0	0	False		True			
 8761	8761	32554	8761	32554.dat		Bionicle Head Connector Block Eye/Brain Stalk	o	9	-1	18	False		False	5044	5045	
 45691	45691	47313	45691	47313.dat		Bionicle Head Connector Block Eye/Brain Stalk (Toa Metru)	o	9	-1	18	False		False	5044	5045	
+16678	16678	43558	16678	43558.dat		Bionicle Chest Armor, Toa Nuva	o	9	-1	18	False		False	5044	5045	
 -428	715	3829c01	715	9556.dat		Vehicle Steering Stand 1 x 2 with Black Steering Wheel	o	0	0	0	False		True			
 -83	1965	32271	1965	152.dat		Technic, Liftarm Thick Bent 1 x 9 (7 - 3)	o	0	0	0	False		True			
 1990	1990	32566	1990	32566.dat		Bionicle Mask Pakari	o	9	-1	18	False		False	5044	5045	
@@ -9276,6 +9284,7 @@ Studio ItemNo	BaseStudioItemNo	BL ItemNo	BL ItemKey	LDraw ItemNo	LDD ItemNo	Desc
 -2601	-2601			45106.dat		animal dragon tail oriental	o	0	0	0	False		False			
 -798	760	3957	760	395701.dat		Antenna 4H - Round Top	o	0	0	0	False		True			
 9537	9537	32560	9537	32560.dat		Bionicle Foot Wedge 3 x 7 x 3	o	9	-1	18	False		False	5044	5045	
+144016	1710	973pb2262	144016	973pb2262.dat		Torso Race Suit with Chevrolet Logos on Front and 'CORVETTE RACING' on Back Pattern	o	59	10	28	False		True	5101	5103	
 42324	42324	44138	42324	44138.dat		Bionicle Foot Rahkshi	o	9	-1	18	False		False	5044	5045	
 -204	498	3144	498	513.dat		Antenna with Side Spokes	o	0	0	0	False		True			
 -56	5	30322	5	105.dat		Flag on Antenna Whip	o	0	0	0	False		True			
@@ -10430,6 +10439,7 @@ Studio ItemNo	BaseStudioItemNo	BL ItemNo	BL ItemKey	LDraw ItemNo	LDD ItemNo	Desc
 146215	39753	973pb2342c01	146215	bl_973pb2342c01.dat		Torso Argyle Sweater with White Shirt Collar and Button Pattern / Medium Nougat Arms / Yellow Hands	o	59	11	28	True		True	5101	5102	
 -1488	17085	3068bp51	460	3068p51.dat		Tile 2 x 2 with Spyrius Blue Screen with Plus Sign and Silver and Red Panel Pattern	o	0	0	0	False		True			
 -1485	17085	3068bp22	457	3068p22.dat		Tile 2 x 2 with Tool Sledgehammer Pattern	o	0	0	0	False		True			
+16674	16674	43557	16674	43557.dat		Bionicle Toa Nuva Leg Section	o	9	-1	18	False		False	5044	5045	
 17899	17899	44036	17899	44036.dat		Bionicle Toa Nuva Climbing Claw / Kodan Ball Half	o	9	-1	18	False		False	5044	5045	
 42328	42328	45425	42328	45425.dat		Bionicle Weapon Rahkshi Staff of Power (Vorahk)	o	9	-1	18	False		False	5044	5045	
 43633	43633	44818	43633	44818.dat		Bionicle Weapon Rahkshi Staff of Poison (Dual Pronged - Lerahk)	o	9	-1	18	False		False	5044	5045	
@@ -10440,6 +10450,7 @@ Studio ItemNo	BaseStudioItemNo	BL ItemNo	BL ItemKey	LDraw ItemNo	LDD ItemNo	Desc
 -3126	-3126			6213.dat		brick  2 x  6 x  3	o	0	0	0	False		False			
 -476	299	3005	299	30071.dat		Brick 1 x 1	o	0	0	0	False		True			
 17866	17866	44031	17866	44031.dat		Bionicle Weapon Aqua Axe	o	9	-1	18	False		False	5044	5045	
+9527	9527	41662	9527	41662.dat		Bionicle Weapon 5 x 5 Shield with Triple Blasters	o	9	-1	18	False		False	5044	5045	
 42694	42694	44808	42694	44808.dat		Bionicle Weapon Bladed Spear End	o	9	-1	18	False		False	5044	5045	
 44085	44085	44813	44085	44813.dat		Bionicle Weapon Staff of Light Blade	o	9	-1	18	False		False	5044	5045	
 16677	16677	44034	16677	44034.dat		Bionicle Weapon Quake Breaker / All-Terrain Track	o	9	-1	18	False		False	5044	5045	
@@ -10452,6 +10463,7 @@ Studio ItemNo	BaseStudioItemNo	BL ItemNo	BL ItemKey	LDraw ItemNo	LDD ItemNo	Desc
 1991	1991	32574	1991	32574.dat		Bionicle Mask Rau (Turaga)	o	9	-1	18	False		False	5044	5045	
 1992	1992	32567	1992	32567.dat		Bionicle Mask Ruru (Turaga)	o	9	-1	18	False		False	5044	5045	
 9502	9502	41663	9502	41663.dat		Bionicle Weapon 5 x 5 Shield with Dual Round Prongs	o	9	-1	18	False		False	5044	5045	
+9523	9523	41664	9523	41664.dat		Bionicle Weapon 5 x 5 Shield with 3 Top Fins	o	9	-1	18	False		False	5044	5045	
 -723	17759	44728	17759	86644.dat		Bracket 1 x 2 - 2 x 2	o	0	0	0	False		True			
 -964	17759	44728	17759	4277932.dat		Bracket 1 x 2 - 2 x 2	o	0	0	0	False		True			
 -738	17759	44728	17759	92411.dat		Bracket 1 x 2 - 2 x 2	o	0	0	0	False		True			
@@ -10509,6 +10521,7 @@ Studio ItemNo	BaseStudioItemNo	BL ItemNo	BL ItemKey	LDraw ItemNo	LDD ItemNo	Desc
 129721	1710	973pb1782	129721	973pb1782.dat		Torso Jacket Open with White Shirt, Black Tie and 4 Buttons Pattern	o	59	10	28	False		True	5101	5103	
 117889	90265	87079pb130	117889	87079pb130.dat		Tile 2 x 4 with Hearts, Star, Butterflies, Music Notes, Paw Prints, Flower and Mattress Buttons Pattern (Sticker) - Set 3184	o	98	1	7	False		True	5014		
 104477	90265	87079pb046	104477	87079pb046.dat		Tile 2 x 4 with Flowers, Brick, 'MAKE LEGO MODELS' and 'NOT WAR' Pattern (Sticker) - Set 10220	o	98	1	7	False		True	5014		
+93690	1710	973pb0692	93690	973pb0692.dat		Torso Castle Kingdoms Scale Mail, Copper Shoulder Armor and Chains Front and Back Pattern	o	59	10	28	False		True	5101	5103	
 93879	1710	973pb0697	93879	973pb0697.dat		Torso Castle Kingdoms Lion Head Medallion and Fur Trim Pattern	o	59	10	28	False		True	5101	5103	
 -118590	-118590			u9210c00.dat		Torso Friends Bright Green Polo Shirt Pattern, Medium Dark Flesh Arms with Hands with Bright Green Short Sleeves Pattern	o	0	0	0	False		False			
 -115852	-115852			92241c00.dat		Torso Friends	o	0	0	0	False		False			
@@ -10873,5 +10886,12 @@ Studio ItemNo	BaseStudioItemNo	BL ItemNo	BL ItemKey	LDraw ItemNo	LDD ItemNo	Desc
 180902	326	3010pb276	180902	3010pb276.dat		Brick 1 x 4 with Light Turquoise, Magenta, and White Diamonds Pattern	o	14	1	1	False		True	5001		
 190429	378	3023pb02	190429	3023pb02.dat		Plate 1 x 2 with Metallic Gold Pattern on Long Edge	o	70	1	7	False		True	5009		
 197145	272	3003pb129	197145	3003pb129.dat		Brick 2 x 2 with Black and White Eye Pattern	o	14	1	1	False		True	5001		
+205080	205080	73507	205080	73507.dat		Technic, Liftarm, Modified Perpendicular Holes Thick 1 x 11	o	94	9	14	False		False	5028	5031	
+203266	203266	65249	203266	65249.dat		Technic, Axle 2L with Pin without Friction Ridges Lengthwise	o	94	2	15	False		False	5034	5036	
+205263	205263	70495	205263	70495.dat		Windscreen 3 x 14 x 4	o	112	-1	11	False		False	5062		
+206308	206308	69819	206308	69819.dat		Technic, Axle and Pin Connector Perpendicular Double Split, Reinforced Sides	o	94	4	15	False		False	5034	5037	
+205592	205592	69912	205592	69912.dat		Tire 81 x 35 Tractor	o	99	-1	25	False		False	5063	5066	
+205443	205443	77765	205443	77765.dat		Technic, Pin 3L without Friction Ridges Lengthwise with Stop	o	94	12	15	False		False	5034	5035	
+189429	1710	973pb3942	189429	973pb3942.dat		Torso Magenta Scarf with Gold Clasps, Black Muscle Contours, and Dark Green Grid Lines Pattern	o	59	10	28	False		True	5101	5103	
 40918	40918	40918c01	40918	40918c01.dat		Technic Linear Actuator Long with Dark Bluish Gray Ends	o	94	1	17	True		False	5028	5028	
 26674	bb0875	bb0875	bb0875	26674.dat		Pneumatic Pump Small (6L) V2 with Reinforced Cylinder	o	71	-1	22	True		False	5082	5084	
