@@ -3,13 +3,14 @@
 <br>
 <br>
 
-## Added new Pneumatic Pump
-  - Added the new reinforced pneumatic pump to custom parts
+## Updated to the latest version of Studio - 2.2.11_1
+  - There are separate files to support 2.2.8_1 and 2.2.9_1 ( Just remove the version number at the end of the file to use it.)
 
 <br>
 
-## Updated to the latest version of Studio - 2.2.9_1
-  - There is a separate file to support 2.2.8_1 ( Just remove the version number at the end of the file to use it.)
+
+## Added new Pneumatic Pump
+  - Added the new reinforced pneumatic pump to custom parts
 
 <br>
 
