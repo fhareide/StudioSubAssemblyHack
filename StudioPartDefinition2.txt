@@ -979,12 +979,12 @@ Studio ItemNo	BaseStudioItemNo	BL ItemNo	BL ItemKey	LDraw ItemNo	LDD ItemNo	Desc
 65369	65369	193b2	65369	3842b.dat	3842	Minifigure, Headgear Helmet Space / Town with Thick Chin Strap - with Visor Dimples	o	59	6	30	False		False	5094	5097	
 18	18	194	18	4210a.dat	4210	Minifigure, Utensil Hose Nozzle Simple	o	59	12	32	False		False	5114	5116	
 -100	18	194	18	194.dat		Minifigure, Utensil Hose Nozzle Simple	o	0	0	0	False		True			
-137815	137815	19467c01	137815	19478-p1.dat		Pneumatic Cylinder V2 2 x 11	o	71	-1	22	False		False	5082	5084	
+137815	137815	19467c01	137815	19478-p1.dat		Pneumatic Cylinder V2 2 x 11	o	71	-1	22	True		False	5082	5084	
 -1059	137815	19467c01	137815	19478-p2.dat		Pneumatic Cylinder V2 2 x 11	o	0	0	0	False		True			
-137817	137817	19475c01	137817	19475-p1.dat		Pneumatic Cylinder V2 1 x 5	o	71	-1	22	False		False	5082	5084	
+137817	137817	19475c01	137817	19475-p1.dat		Pneumatic Cylinder V2 1 x 5	o	71	-1	22	True		False	5082	5084	
 -1055	137817	19475c01	137817	19475-p2.dat		Pneumatic Cylinder V2 1 x 5	o	0	0	0	False		True			
 -1060	137810	19482c01	137810	19482-p1.dat		Pneumatic Pump Small (6L) V2	o	0	0	0	False		True			
-137810	137810	19482c01	137810	19482-p2.dat		Pneumatic Pump Small (6L) V2	o	71	-1	22	False		False	5082	5084	
+137810	137810	19482c01	137810	19482-p1.dat		Pneumatic Pump Small (6L) V2	o	71	-1	22	True		False	5082	5084	
 131043	131043	19723	131043	19723.dat		Minifigure Armor Breastplate Rectangular (Minecraft)	o	59	2	31	False		False	5101	5104	
 163155	163155	19727	163155	19727.dat		Creature Head Pixelated	o	3	3	33	False		False	5119	5122	
 148693	148693	19729	148693	19729.dat		Minifigure, Head, Modified Cube, Plain	o	59	5	29	False		False	5094	5095	
@@ -1059,7 +1059,7 @@ Studio ItemNo	BaseStudioItemNo	BL ItemNo	BL ItemKey	LDraw ItemNo	LDD ItemNo	Desc
 138629	138629	21755	138629	21755.dat		Large Figure Weapon Lightsaber Hilt Half 2L with Axle Hole	o	56	-1	18	False		False	5044	5048	
 138825	138825	21778	138825	21778.dat		Minifigure, Hair Male with Coiled Texture	o	59	3	30	False		False	5094	5096	
 -1057	137816	21828c01	137816	19476-p2.dat		Pneumatic Cylinder V2 1 x 11	o	0	0	0	False		True			
-137816	137816	21828c01	137816	19476-p1.dat		Pneumatic Cylinder V2 1 x 11	o	71	-1	22	False		False	5082	5084	
+137816	137816	21828c01	137816	19476-p1.dat		Pneumatic Cylinder V2 1 x 11	o	71	-1	22	True		False	5082	5084	
 149617	149617	21849	149617	21849.dat		Windscreen 8 x 4 x 2 with 2 Studs and Bar Handle	o	112	-1	11	False		False	5062		
 139003	149617	21849pb01	139003	21849ps1.dat		Windscreen 8 x 4 x 2 with 2 Studs and Bar Handle with Silver Cockpit Window Frames with Rivets Pattern	o	113	-1	11	False		true	5062		
 149226	149617	21849pb02	149226	21849ps2.dat		Windscreen 8 x 4 x 2 with 2 Studs and Bar Handle with White Cockpit Window Frames Pattern	o	113	-1	11	False		True	5062		
@@ -2000,8 +2000,8 @@ Studio ItemNo	BaseStudioItemNo	BL ItemNo	BL ItemKey	LDraw ItemNo	LDD ItemNo	Desc
 154080	154080	27928	154080	27928.dat		Wedge, Plate 2 x 2 Pentagonal with Center Stud and 1 x 1/2 Raised Tab on Top	o	106	2	8	False		False	5012	5011	
 154278	154278	27934	154278	27934.dat		Plate, Modified 1 x 13 Sword with Angled Side Extensions, Textured Panel Inset with Hexagons	o	70	2	9	False		False	5012	5012	
 150934	150934	27938	150934	27938.dat		Technic, Gear Worm Screw, Short	o	94	8	16	False		False	5040	5041	
-1908	1908	2793c01	1908	2793c01.dat		Pneumatic Cylinder with 2 Inlets Medium (48mm) with Black Top	o	71	-1	22	False		False	5082	5084	
-58053	58053	2793c02	58053	2793c02.dat		Pneumatic Cylinder with 2 Inlets Medium (48mm) with Yellow Top	o	71	-1	22	False		False	5082	5084	
+1908	1908	2793c01	1908	2793c01-f1.dat		Pneumatic Cylinder with 2 Inlets Medium (48mm) with Black Top	o	71	-1	22	True		False	5082	5084	
+58053	58053	2793c02	58053	2793c01-f1.dat		Pneumatic Cylinder with 2 Inlets Medium (48mm) with Yellow Top	o	71	-1	22	True		False	5082	5084	
 150755	150755	27940	150755	27940.dat		Technic, Axle and Pin Connector Hub with 2 Axles	o	94	4	15	False		False	5034	5037	
 151692	151692	27965	151692	27965.dat		Hose Flexible 22L with 2 Connector Ends (Zipline)	o	53	1	19	False		False	5135	5136	
 154144	154144	27976	154144	27976.dat		Slide Playground 4 x 6 x 6 Straight	o	126	-1	12	False		False	5087	5143	
@@ -2112,7 +2112,7 @@ Studio ItemNo	BaseStudioItemNo	BL ItemNo	BL ItemKey	LDraw ItemNo	LDD ItemNo	Desc
 157763	157763	29096	157763	29096.dat	47543	Cone Half 10 x 5 x 6	o	20	-1	2	False		False	5002	5005	
 3118	50416	2909c01	3118	75348.dat		Technic, Shock Absorber 9.5L (Undetermined Spring Type)	o	0	0	0	False		True			
 -1426	50416	2909c01	3118	2909c01.dat		Technic, Shock Absorber 9.5L (Undetermined Spring Type)	o	0	0	0	False		True			
-50416	50416	2909c03	50416	75348.dat		Technic, Shock Absorber 9.5L (Soft Spring)	o	94	14	16	False		False	5040	5042	
+50416	50416	2909c03	50416	74741-f1.dat		Technic, Shock Absorber 9.5L (Soft Spring)	o	94	14	16	True		False	5040	5042	
 155945	155945	29109	155945	29109.dat		Minifigure, Weapon Machete	o	59	13	32	False		False	5114	5117	
 155717	155717	29110	155717	29110.dat		Boat, Kayak	o	11	-1	27	False		False	5075	5077	
 155941	155941	29111	155941	29111.dat		Spider with Elongated Abdomen	o	3	5	33	False		False	5119	5124	
@@ -6651,7 +6651,7 @@ Studio ItemNo	BaseStudioItemNo	BL ItemNo	BL ItemKey	LDraw ItemNo	LDD ItemNo	Desc
 180913	180913	46882	180913	46882.dat		Technic, Panel Car Mudguard 15 x 2 x 7	o	94	11	17	False		False	5028	5032	
 190622	180913	46882pb01	190622	46882pb01.dat		Technic, Panel Car Mudguard 15 x 2 x 7 with Black Stripe Pattern	o	95	1	17	False		True	5028	5032	
 -1047	1372	4688c01	1372	127c02.dat		Pneumatic Cylinder with 1 Inlet Medium (48mm)	o	0	0	0	False		True			
-1372	1372	4688c01	1372	127c01.dat		Pneumatic Cylinder with 1 Inlet Medium (48mm)	o	71	-1	22	False		False	5082	5084	
+1372	1372	4688c01	1372	127c01-f1.dat		Pneumatic Cylinder with 1 Inlet Medium (48mm)	o	71	-1	22	True		False	5082	5084	
 181196	181196	46891	181196	46891.dat		Technic Digger Bucket 10 x 19	o	94	1	17	False		False	5028	5028	
 39372	39372	4689c01	39372	335c01.dat		Pneumatic Cylinder with 1 Inlet Large (64mm)	o	0	0	0	False		False			
 -1191	39372	4689c01	39372	335c02.dat		Pneumatic Cylinder with 1 Inlet Large (64mm)	o	0	0	0	False		True			
@@ -7815,7 +7815,7 @@ Studio ItemNo	BaseStudioItemNo	BL ItemNo	BL ItemKey	LDraw ItemNo	LDD ItemNo	Desc
 -492	1477	6192	1477	30337.dat		Slope, Curved 2 x 4 Double	o	0	0	0	False		True			
 1477	1477	6192	1477	6192.dat	6192	Slope, Curved 2 x 4 Double	o	81	2	6	False		False	5007		
 -601	80844	61927c01	80844	61927.dat		Technic Linear Actuator with Dark Bluish Gray Ends	o	0	0	0	False		True			
-80844	80844	61927c01	80844	61927c01.dat		Technic Linear Actuator with Dark Bluish Gray Ends	o	94	1	17	False		False	5028	5028	
+80844	80844	61927c01	80844	61927-f1.dat		Technic Linear Actuator with Dark Bluish Gray Ends	o	94	1	17	True		False	5028	5028	
 8603	8603	6195	8603	6195.dat	6195	Container, Sink 4 x 4 with Elliptical Basin	o	21	-1	12	False		False	5087	5089	
 76849	76849	61975	76849	61975.dat	61975	Minifigure, Weapon Whip Coiled	o	59	13	32	False		False	5114	5117	
 76848	76848	61976	76848	61976.dat	61976	Minifigure, Utensil Bag Messenger Pouch	o	59	12	32	False		False	5114	5116	
@@ -7884,7 +7884,7 @@ Studio ItemNo	BaseStudioItemNo	BL ItemNo	BL ItemKey	LDraw ItemNo	LDD ItemNo	Desc
 -390	48122	6252	1501	6252.dat		Belville Umbrella Top with Rounded Bottom Flaps	o	0	0	0	False		True			
 1501	48122	6252	1501	958.dat	6252	Belville Umbrella Top with Rounded Bottom Flaps	o	0	0	0	False		True			
 105691	105691	62520	105691	62520.dat	62520	Technic, Universal Joint 3L, End	o	94	4	15	False		False	5034	5037	
-81038	81038	62520c01	81038	61903.dat		Technic, Universal Joint 3L	o	94	4	15	False		False	5034	5037	
+81038	81038	62520c01	81038	61903.dat		Technic, Universal Joint 3L	o	94	4	15	True		False	5034	5037	
 1502	1502	6253	1502	6253.dat	6253	Belville Umbrella Stand with Square Base	o	8	-1	0	False		False	5178	5180	
 82229	82229	62531	82229	62531.dat	62531	Technic, Panel Curved 11 x 3 with 2 Pin Holes through Panel Surface	o	94	11	17	False		False	5028	5032	
 80024	-3144	62537pb01	80024	62537p02.dat		Minifigure, Headgear Jester's Cap with Black Left Side and White Pom Poms Pattern	o	59	6	30	False		True	5094	5097	
@@ -8457,11 +8457,11 @@ Studio ItemNo	BaseStudioItemNo	BL ItemNo	BL ItemKey	LDraw ItemNo	LDD ItemNo	Desc
 195781	195781	73110	195781	73110.dat		Plate, Modified 6 x 6 with 5 Pin Holes	o	70	2	9	False		False	5012	5012	
 195767	195767	73111	195767	73111.dat		Brick, Round 3 x 3 x 2 with Recessed Center and Axle Hole	o	14	3	2	False		false	5002	5002	
 2444	2444	73112	2444	73112.dat		Electric, Train 12V Manual Switch Motor 4 x 8 x 1 2/3	o	33	6	13	False		False	5128	5133	
-50410	50410	731c04	50410	76537.dat		Technic, Shock Absorber 6.5L - Hard Spring	o	94	14	16	False		False	5040	5042	
+50410	50410	731c04	50410	76537.dat		Technic, Shock Absorber 6.5L - Hard Spring	o	94	14	16	True		False	5040	5042	
 -670	50410	731c04	50410	76138.dat		Technic, Shock Absorber 6.5L - Hard Spring	o	0	0	0	False		True			
-56213	56213	731c06	56213	41838.dat		Technic, Shock Absorber 6.5L - Soft Spring	o	94	14	16	False		False	5040	5042	
+56213	56213	731c06	56213	41838.dat		Technic, Shock Absorber 6.5L - Soft Spring	o	94	14	16	True		False	5040	5042	
 -235	1605	732	1605	732.dat		Technic, Shock Absorber 6.5L, Cylinder	o	0	0	0	False		True			
-1605	1605	732	1605	4255.dat	4255	Technic, Shock Absorber 6.5L, Cylinder	o	94	14	16	False		False	5040	5042	
+1605	1605	732	1605	4255.dat	4255	Technic, Shock Absorber 6.5L, Cylinder	o	94	14	16	True		False	5040	5042	
 195765	195765	73230	195765	73230.dat		Technic, Brick 1 x 1 with Axle Hole	o	94	3	4	False		False	5028	5029	
 11367	11367	733	11367	733.dat		Brick 10 x 10 without Bottom Tubes, without Cross Supports	o	13	1	1	False		False	5001		
 1607	1607	73312	1607	73312.dat		Door 1 x 4 x 5 Right with 6 Panes	o	28	-1	11	False		False	5057	5058	
@@ -9229,7 +9229,7 @@ Studio ItemNo	BaseStudioItemNo	BL ItemNo	BL ItemKey	LDraw ItemNo	LDD ItemNo	Desc
 148924	148924	92409	148924	92409.dat		Tire 17.5mm D. x 6mm with Shallow Staggered Treads - Band Around Center of Tread	o	99	-1	25	False		False	5063	5066	
 97267	97267	92438	97267	92438.dat	92438	Plate 8 x 16	o	70	1	7	False		False	5009		
 -945	-11700	9244c01	1700	4240416.dat		Technic, Connector Axle Universal Joint 4L	o	0	0	0	False		True			
-1700	-11700	9244c01	1700	89.dat		Technic, Universal Joint 4L	o	94	4	15	False		False	5034	5037	
+1700	-11700	9244c01	1700	89.dat		Technic, Universal Joint 4L	o	94	4	15	True		False	5034	5037	
 101778	101778	92474	101778	92474.dat	92474	Windscreen 6 x 2 x 2 with Bar Handle	o	112	-1	11	False		False	5062		
 99257	99257	92579	99257	92579.dat	92579	Windscreen 8 x 4 x 2 with 4 Studs and Bar Handle	o	112	-1	11	False		False	5062		
 98183	98183	92580	98183	92580.dat	92580	Windscreen 5 x 6 x 2 Curved Top Canopy with 4 Studs and Bar Handle	o	112	-1	11	False		False	5062		
@@ -9248,7 +9248,7 @@ Studio ItemNo	BaseStudioItemNo	BL ItemNo	BL ItemKey	LDraw ItemNo	LDD ItemNo	Desc
 99153	99153	92691	99153	92691.dat	92691	Bone, Long	o	3	1	33	False		False	5119	5120	
 98175	98175	92692	98175	92692.dat	92692	Plate, Modified 1 x 2 with Angled Bar Handles on Side	o	70	2	9	False		False	5012	5012	
 -1350	98656	92693c01	98656	92693c03.dat		Technic Linear Actuator Mini with Dark Bluish Gray Head and Orange Axle	o	0	0	0	False		True			
-98656	98656	92693c01	98656	92693c02.dat		Technic Linear Actuator Mini with Dark Bluish Gray Head and Orange Axle	o	94	1	17	False		False	5028	5028	
+98656	98656	92693c01	98656	92693c01-f1.dat		Technic Linear Actuator Mini with Dark Bluish Gray Head and Orange Axle	o	94	1	17	True		False	5028	5028	
 101562	101562	92710	101562	92710.dat		Boat, Hull Unitary 28 x 8 Base	o	11	-1	27	False		False	5075	5077	
 101564	101564	92710c01	101564	92710c01.dat		Boat, Hull Unitary 28 x 8 Base with Dark Bluish Gray Boat Hull Unitary 28 x 8 Top (92710 / 92711)	o	11	-1	27	False		False	5075	5077	
 102263	102263	92710c02	102263	92710c02.dat		Boat, Hull Unitary 28 x 8 Base with White Boat Hull Unitary 28 x 8 Top (92710 / 92711)	o	11	-1	27	False		False	5075	5077	
@@ -10607,7 +10607,7 @@ Studio ItemNo	BaseStudioItemNo	BL ItemNo	BL ItemKey	LDraw ItemNo	LDD ItemNo	Desc
 109305	109305	99780	109305	99780.dat	99780	Bracket 1 x 2 - 1 x 2 Inverted	o	12	-1	9	False		False	5012	5013	
 109981	109981	99781	109981	99781.dat	99781	Bracket 1 x 2 - 1 x 2	o	12	-1	9	False		False	5012	5013	
 108512	108512	99784	108512	99784.dat	99784	Bar  12L with 1 x 2 Plate End Hollow Studs and 1 x 1 Round Plate End	o	6	-1	23	False		False	5019	5019	
-103166	103166	99798c01	103166	99798a.dat		Pneumatic Pump Small (6L)	o	71	-1	22	False		False	5082	5084	
+103166	103166	99798c01	103166	99798-f1.dat		Pneumatic Pump Small (6L)	o	71	-1	22	True		False	5082	5084	
 -1364	103166	99798c01	103166	99798b.dat		Pneumatic Pump Small (6L)	o	0	0	0	False		True			
 105247	105247	99809	105247	99809.dat	99809	Minifigure, Weapon Gun, Tranquilizer	o	59	13	32	False		False	5114	5117	
 106206	106206	99930	106206	99930.dat	99930	Minifigure, Hair Short Combed Sideways Part Left	o	59	3	30	False		False	5094	5096	
@@ -10874,10 +10874,10 @@ Studio ItemNo	BaseStudioItemNo	BL ItemNo	BL ItemKey	LDraw ItemNo	LDD ItemNo	Desc
 1963	1963	x184	1963	184.dat		Baseplate 16 x 18	o	7	1	20	False		False	5022	5022	
 2645	2645	x187	2645	3648a.dat		Technic, Gear 24 Tooth (1st Version - 3 Axle Holes)	o	94	8	16	False		False	5040	5041	
 -1297	3451	x189c01	3451	74981b.dat		Pneumatic Cylinder with 2 Inlets Small (32mm)	o	0	0	0	False		True			
-3451	3451	x189c01	3451	74981a.dat		Pneumatic Cylinder with 2 Inlets Small (32mm)	o	71	-1	22	False		False	5082	5084	
+3451	3451	x189c01	3451	74981-f1.dat		Pneumatic Cylinder with 2 Inlets Small (32mm)	o	71	-1	22	True		False	5082	5084	
 3281	3281	x190	3281	71151.dat		Minifigure Armor Breastplate	o	59	2	31	False		False	5101	5104	
 -1298	3452	x191c01	3452	74982b.dat		Pneumatic Pump Small (5.5L)	o	0	0	0	False		True			
-3452	3452	x191c01	3452	74982a.dat		Pneumatic Pump Small (5.5L)	o	71	-1	22	False		False	5082	5084	
+3452	3452	x191c01	3452	74982-f1.dat		Pneumatic Pump Small (5.5L)	o	71	-1	22	True		False	5082	5084	
 3648	3648	x192px1	3648	71396p01c01.dat		Cloth Vehicle Roof Wagon with Oval and Two Crossed Cutlasses Pattern	o	59	13	32	False		True	5114	5117	
 45252	45252	x205	45252	30287.dat	30287	Minifigure, Headgear Hood Fur-lined	o	59	6	30	False		False	5094	5097	
 3267	45252	x205px1	3267	30287p01.dat		Minifigure, Headgear Hood Fur-lined with White Fur Pattern	o	59	6	30	False		True	5094	5097	
@@ -11084,3 +11084,5 @@ Studio ItemNo	BaseStudioItemNo	BL ItemNo	BL ItemKey	LDraw ItemNo	LDD ItemNo	Desc
 178806	178806	bb0959c01	178806	bb0959c01.dat		Electric, Motor - Powered Up, L	o	33	4	13	False		False	5128	5131	
 178805	178805	bb0961c01	178805	bb0961c01.dat		Electric Battery Box Powered Up Bluetooth Hub with Dark Bluish Gray Bottom	o	33	2	13	False		False	5128	5129	
 -202669	-202669	78522	78522	78522.dat		Slope, Curved 6 x 4 Double	o	0	0	0	False		false	0		
+40918	40918	40918c01	40918	40918c01.dat		Technic Linear Actuator Long with Dark Bluish Gray Ends	o	94	1	17	True		False	5028	5028	
+26674	bb0875	bb0875	bb0875	26674.dat		Pneumatic Pump Small (6L) V2 with Reinforced Cylinder	o	71	-1	22	True		False	5082	5084	

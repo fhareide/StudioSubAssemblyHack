@@ -3,7 +3,7 @@
 <br>
 <br>
 
-## Updated to the latest version of Studio - 2.2.11_1
+## Updated to the latest version of Studio - 2.22.1_1
   - There are separate files to support 2.2.8_1 and 2.2.9_1 ( Just remove the version number at the end of the file to use it.)
 
 <br>
